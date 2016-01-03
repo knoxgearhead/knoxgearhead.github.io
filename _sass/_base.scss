@@ -11,6 +11,15 @@ dl, dd, ol, ul, figure {
 
 
 /**
+ * HTML element
+ */
+html {
+    height: 100%;
+}
+
+
+
+/**
  * Basic styling
  */
 body {
@@ -21,6 +30,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    height: 100%;
 }
 
 
