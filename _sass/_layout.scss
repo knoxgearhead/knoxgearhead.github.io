@@ -4,7 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    height: 30%;
+    height: 240px;
     background-size: cover;
 
     // Positioning context for the mobile navigation icon
@@ -237,4 +237,11 @@
             font-size: 18px;
         }
     }
+}
+
+.event-info {
+    p {
+        margin-bottom: 0
+    }
+    margin-bottom: $spacing-unit
 }
