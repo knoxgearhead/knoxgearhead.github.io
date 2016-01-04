@@ -6,7 +6,7 @@ categories: carshow
 dates: "May 6-8, 2016"
 location: "Chilhowee Park"
 address: "3301 E. Magnolia Ave., Knoxville, TN 37914"
-website: "www.nsra-usa.com/Events/"
+website: "http://www.nsra-usa.com/Events/"
 ---
 
 The National Street Rod Association's great slogan is 'Fun With Cars.' And it's really that simple.
