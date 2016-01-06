@@ -12,6 +12,6 @@ rec_period: weekly
 rec_day: friday
 ---
 
-Every Friday April through September at Foothills Mall in Maryville.
+Every Friday starting at 5pm April through September at Foothills Mall in Maryville.
 
 Hosted by the Smoky Mountain Street Rodders.

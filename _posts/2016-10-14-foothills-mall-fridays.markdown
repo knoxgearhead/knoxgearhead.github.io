@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Foothills Mall Cruise-In"
-date:   2016-10-14 22:36:59
+date:   2016-10-14 22:54:03
 categories: carshow
 location: "Foothills Mall"
 address: "197 Foothills Mall Dr, Maryville, TN 37801"
@@ -12,6 +12,6 @@ rec_period: weekly
 rec_day: friday
 ---
 
-Every Friday April through September at Foothills Mall in Maryville.
+Every Friday starting at 5pm April through September at Foothills Mall in Maryville.
 
 Hosted by the Smoky Mountain Street Rodders.
