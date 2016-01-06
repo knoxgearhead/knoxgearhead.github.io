@@ -3,7 +3,6 @@ layout: event
 title:  "Cabin Fever Carshow"
 date:   2016-01-09 08:00:00
 categories: carshow
-dates: "January 9, 2016 (8am - 9pm) - January 10, 2016 (10am - 4pm)"
 location: "Knoxville Expo Center"
 address: "5441 Clinton Highway, Knoxville, TN 37921"
 website: "http://www.cabinfevercarshow.net"

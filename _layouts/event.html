@@ -9,7 +9,7 @@ layout: default
 
   <article class="event-info">
     <p>Location: {{ page.location }}</p>
-    <p>Date(s): {{ page.dates }}</p>
+    <p>Date(s): {{ page.date | date: "%A, %b %-d, %Y" }} {% if page.end_date %} - {{ page.end_date | date: "%A, %b %-d, %Y" }}{% endif %}</p>
     <p>Address: <a href=https://maps.google.com/?q="{{ page.address | replace: ' ','%20' }}"> {{ page.address }}</a></p>
     <p>Website: <a href={{ page.website }}>{{ page.website }}</a></p>
   </article>

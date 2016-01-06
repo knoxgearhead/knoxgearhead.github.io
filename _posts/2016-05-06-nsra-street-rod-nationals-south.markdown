@@ -2,8 +2,8 @@
 layout: event
 title:  "NSRA: Street Rod Nationals South"
 date:   2016-05-06 08:00:00
+end_date: 2016-05-08 16:00:00
 categories: carshow
-dates: "May 6-8, 2016"
 location: "Chilhowee Park"
 address: "3301 E. Magnolia Ave., Knoxville, TN 37914"
 website: "http://www.nsra-usa.com/Events/"

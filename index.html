@@ -8,13 +8,11 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts reversed %}
-      <li>
+    <span class="post-row">
         <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="post-meta">{{ post.location }}</span>
+    </span>
     {% endfor %}
   </ul>
 
