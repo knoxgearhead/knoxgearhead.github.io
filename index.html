@@ -4,13 +4,15 @@ layout: default
 
 <div class="home">
 
+  <h3 class="page-announcement"> Website under construction! If you know of any events in the Knoxville area we don't have listed here, please email us at <a href="mailto:knoxgearhead@knoxgearhead.com">knoxgearhead@knoxgearhead.com</a>.</h1>
+
   <h1 class="page-heading">Upcoming Events</h1>
 
   <ul class="post-list">
     {% for post in site.posts reversed %}
     <span class="post-row">
         <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="/">{{ post.title }}</a>
         <span class="post-meta">{{ post.location }}</span>
     </span>
     {% endfor %}

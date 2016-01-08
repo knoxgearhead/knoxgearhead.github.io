@@ -34,7 +34,7 @@ for eventfile in glob("_recurring/*.markdown"):
 
     for d in dates:
         formatted_date = str(d)
-        c = content.replace("DATE", formatted_date)
+        c = content.replace("DATEc", formatted_date)
         filename = "_posts/" + formatted_date.split(" ")[0] + '-' + eventfile.split("/")[-1]
         with open(filename, "w") as outfile:
             outfile.write(c)
