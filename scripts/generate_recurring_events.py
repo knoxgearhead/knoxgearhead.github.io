@@ -12,7 +12,9 @@ DAYS = {"monday": dr.MO,
         "saturday":dr.SA,
         "sunday":dr.SU}
 
+
 for eventfile in glob("_recurring/*.markdown"):
+    print("Event: {}".format(eventfile))
 
     with open(eventfile, 'r') as txt:
         content = txt.read()
@@ -26,15 +28,35 @@ for eventfile in glob("_recurring/*.markdown"):
     end = info['rec_end']
 
     if "week" in info['rec_period']:
-        rr = dr.rrule(dr.WEEKLY,byweekday=DAYS[info['rec_day']])
+        rr = dr.rrule(dr.WEEKLY,byweekday=DAYS[info['rec_day']],dtstart=start)
+
+    elif "month" in info['rec_period']:
+        rr = dr.rrule(dr.MONTHLY, byweekday=DAYS[info['rec_day']](info['rec_instance']), dtstart=start)
+
     else:
         print "Error: this recurring type not supported"
 
+    print start
     dates = rr.between(start, end)
 
+    print dates
+
+    if 'bi' in info['rec_period']:
+        dates = dates[::2]
+
+
+    if 'rec_skip' in info:
+        skip_dates = info['rec_skip']
+    else:
+        skip_dates = []
+
     for d in dates:
-        formatted_date = str(d)
-        c = content.replace("DATE", formatted_date)
-        filename = "_posts/" + formatted_date.split(" ")[0] + '-' + eventfile.split("/")[-1]
-        with open(filename, "w") as outfile:
-            outfile.write(c)
+        d_date = d.date()
+
+        if not( d_date in skip_dates):
+            print("Date: {}".format(d))
+            formatted_date = str(d)
+            c = content.replace("DATE", formatted_date)
+            filename = "_posts/" + formatted_date.split(" ")[0] + '-' + eventfile.split("/")[-1]
+            with open(filename, "w") as outfile:
+                outfile.write(c)

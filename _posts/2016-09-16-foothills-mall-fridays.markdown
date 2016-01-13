@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Foothills Mall Cruise-In"
-date:   2016-09-16 23:14:50
+date:   2016-09-16 00:00:00
 categories: carshow
 location: "Foothills Mall"
 address: "197 Foothills Mall Dr, Maryville, TN 37801"
