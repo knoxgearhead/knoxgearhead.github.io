@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Corevette Expo"
+title:  "Corvette Expo"
 date:   2016-03-18 08:00:00
 end_date: 2016-03-19 20:00:00
 categories: carshow
