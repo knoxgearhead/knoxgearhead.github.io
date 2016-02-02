@@ -7,7 +7,7 @@ import yaml
 
 c = cal.Calendar()
 
-c.add('prodid', '-//KnoxGearhead Calendar//mxm.dk//')
+c.add('prodid', '-//KnoxGearhead Calendar//knoxgearhead.com//')
 c.add('version', '0.0.1')
 
 for f in glob('_posts/*.markdown'):
@@ -25,6 +25,7 @@ for f in glob('_posts/*.markdown'):
     organizer = cal.vCalAddress('MAILTO:knoxgearhead@knoxgearhead.com')
     organizer.params['cn'] = cal.vText('KnoxGearhead')
     e.add('organizer', organizer)
+    e['uid'] = str(info['date']) + '/' + info['title']
 
     c.add_component(e)
 
