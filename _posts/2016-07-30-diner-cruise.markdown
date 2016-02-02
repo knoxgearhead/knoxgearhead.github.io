@@ -2,7 +2,7 @@
 layout: event
 title:  "The Diner Cruise"
 date:   2016-07-30 12:00:00
-categories: carshow
+categories: carshow main
 location: "Sevierville"
 address: "550 Winfield Dunn Parkway, Sevierville, TN 37876"
 website: "http://www.thediner.biz/2015-schedule/"

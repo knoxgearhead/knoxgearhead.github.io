@@ -2,7 +2,7 @@
 layout: event
 title:  "Southeast Gassers"
 date:   2016-05-28 08:00:00
-categories: drag
+categories: drag main
 location: "Knoxville Dragstrip"
 address: "160 Raceway Dr, Maynardville, TN 37807"
 website: "http://www.knoxvilledragstrip.com"

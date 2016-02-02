@@ -3,7 +3,7 @@ layout: event
 title:  "Grand Spring Rod Run"
 date:   2016-04-14 08:00:00
 end_date: 2016-04-16 20:00:00
-categories: carshow
+categories: carshow main
 location: "Pigeon Forge"
 address: "2986 Teaster Lane, Pigeon Forge, TN 37863 "
 website: "http://www.rodrun-pigeonforge.com/"

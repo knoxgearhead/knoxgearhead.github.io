@@ -2,7 +2,7 @@
 layout: event
 title:  "Farragut Lions Club: Helping the World to See Charity Car Show"
 date:   2016-10-01 08:00:00
-categories: carshow
+categories: carshow main
 location: "Chilhowee Park"
 address: "3301 E. Magnolia Ave., Knoxville, TN 37914"
 website: "http://farragut.tnlions.org/charity-car-show/"

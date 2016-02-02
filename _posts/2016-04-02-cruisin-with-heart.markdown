@@ -2,7 +2,7 @@
 layout: event
 title:  "Cars and Coffee - Cruisin' with Heart"
 date:   2016-04-02 08:00:00
-categories: carshow
+categories: carshow main
 location: "Turkey Creek"
 address: "11240 Parkside Dr, Knoxville, Tennessee 37934"
 website: "https://www.facebook.com/events/209708119368866/"

@@ -3,7 +3,7 @@ layout: event
 title:  "British Car Gathering"
 date:   2016-05-13 08:00:00
 end_date: 2016-05-15 16:00:00
-categories: carshow
+categories: carshow main
 location: "Townsend"
 address: "8314 TN-73, Townsend, TN 37882"
 website: "http://www.blountbritishcars.org/gathering.htm"

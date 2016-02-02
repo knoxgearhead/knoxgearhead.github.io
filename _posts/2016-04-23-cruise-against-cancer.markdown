@@ -2,7 +2,7 @@
 layout: event
 title:  "8th Annual Cruise Against Cancer"
 date:   2016-04-23 06:00:00
-categories: carshow
+categories: carshow main
 location: "Newport"
 address: "120 Epley Rd, Newport, TN 37821"
 website: "https://www.facebook.com/CelebrateLifeCruiseAgainstCancer"

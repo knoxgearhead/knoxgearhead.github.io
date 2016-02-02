@@ -3,7 +3,7 @@ layout: event
 title:  "Corvette Expo"
 date:   2016-03-18 08:00:00
 end_date: 2016-03-19 20:00:00
-categories: carshow
+categories: carshow main
 location: "Pigeon Forge"
 address: "190 Gists Creek Rd, Sevierville, TN 37876"
 website: "http://www.corvetteexpo.com/"

@@ -2,7 +2,7 @@
 layout: event
 title:  "Harper Auto Square's Cars and Coffee"
 date:   2016-04-24 08:00:00
-categories: carshow
+categories: carshow main
 location: "West Town Mall"
 address: "7600-H Kingston Pike, Knoxville, TN 37919"
 website: "https://www.facebook.com/events/211743985833739/"
