@@ -12,3 +12,4 @@ github_username:  knoxgearhead
 
 # Build settings
 markdown: kramdown
+future: true
