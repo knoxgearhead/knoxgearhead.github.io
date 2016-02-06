@@ -6,8 +6,8 @@ categories: carshow
 location: "Foothills Mall"
 address: "197 Foothills Mall Dr, Maryville, TN 37801"
 website: "http://www.smokymountainstreetrodders.com/"
-rec_start: 2016-04-01 00:00:00
-rec_end: 2016-10-31 20:00:00
+rec_start: 2016-04-01 17:00:00
+rec_end: 2016-10-31 22:00:00
 rec_period: weekly
 rec_day: friday
 ---

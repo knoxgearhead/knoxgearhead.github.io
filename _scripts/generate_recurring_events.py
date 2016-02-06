@@ -51,7 +51,7 @@ for eventfile in glob("_recurring/*.markdown"):
         skip_dates = []
 
     for d in dates:
-        d_date = d.date()
+        d_date = d.date() + drel.relativedelta(hour=start.hour) 
 
         if not( d_date in skip_dates):
             print("Date: {}".format(d))
