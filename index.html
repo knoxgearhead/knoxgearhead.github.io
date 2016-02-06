@@ -10,7 +10,7 @@ gearhead_version: 0.0.1
   <h1 class="page-heading">Upcoming Events</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.main %}
+    {% for post in site.categories.main reverse %}
     <span class="post-row">
         <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 600, "..."}}</a>
