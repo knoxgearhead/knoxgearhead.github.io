@@ -2,7 +2,7 @@
 layout: event
 title:  "Foothills Mall Cruise-In"
 date:   2016-04-15 17:00:00
-categories: carshow
+categories: carshow main
 location: "Foothills Mall"
 address: "197 Foothills Mall Dr, Maryville, TN 37801"
 website: "http://www.smokymountainstreetrodders.com/"

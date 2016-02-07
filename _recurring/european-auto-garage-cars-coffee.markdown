@@ -2,7 +2,7 @@
 layout: event
 title:  "European Auto Garage Cars and Coffee"
 date:   DATE
-categories: carshow
+categories: carshow main
 location: "West Knoxville"
 address: "227 Sherway Road, Knoxville, TN 37922"
 website: "https://www.facebook.com/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589"
