@@ -7,7 +7,7 @@ location: "West Knoxville"
 address: "227 Sherway Road, Knoxville, TN 37922"
 website: "https://www.facebook.com/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589"
 rec_start: 2016-01-01 08:00:00
-rec_end: 2016-12-31 23:00:00
+rec_end: 2016-12-31 12:00:00
 rec_period: bimonthly
 rec_day: saturday
 rec_instance: 1
