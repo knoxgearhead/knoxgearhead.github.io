@@ -36,7 +36,7 @@ for f in glob('_posts/*.markdown'):
     e.add('organizer', organizer)
     e['uid'] = str(info['date']) + '/' + info['title']
     e['location'] = cal.vText(info['address'])
-    e['description'] = cal.vText('Website: {}\n Location: {}\n\n{}'.format(info['website'], info['location'], txt.split('---')[-1]))
+    e['description'] = cal.vText('http://www.knoxgearhead.com \nWebsite: {}\n Location: {}\n\n{}'.format(info['website'], info['location'], txt.split('---')[-1]))
 
     c.add_component(e)
 
