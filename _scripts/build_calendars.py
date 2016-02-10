@@ -22,8 +22,8 @@ for f in glob('_posts/*.markdown'):
     e.add('summary', info['title'])
     e.add('dtstart', info['date'].replace(tzinfo=pytz.timezone('US/Eastern')))
 
-    if 'date_end' in info:
-        end_time = info['date_end']
+    if 'end_date' in info:
+        end_time = info['end_date']
     elif 'rec_end' in info:
         end_time = info['date'] + drel.relativedelta(hour=info['rec_end'].hour)
     else:
