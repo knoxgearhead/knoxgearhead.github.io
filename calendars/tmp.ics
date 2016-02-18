@@ -764,6 +764,47 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chattanooga Cruise In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160402T160000
+UID:2016-04-30 10:00:00/Chattanooga Cruise In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.chattanoogac
+ ruise-in.com/directions-and-details/\n Location: Coker Tire Chattanooga\n\
+ n\n\n10am - 4pm\n\nAttention! We have announced the date for the 2016 Chat
+ tanooga Cruise In! Mark your calendars for Saturday\, April 2\, 2016! The 
+ event consists of a huge gathering of cars\, trucks and motorcycles\, and 
+ an Open House at the Coker Tire\, Honest Charley Speed Shop and Honest Cha
+ rley Garage facilities. We’ll have music\, as well as give-aways and pro
+ motions throughout the day. Several food vendors will be set up\, and T-Bo
+ nes and Southside Saloon & Bistro will be open for food and refreshments.\
+ n\nCar clubs are welcome\, but please contact us before hand if you plan o
+ n parking together. We realize everyone wants a great parking spot\, so ea
+ rly arrivals are not turned away\, but please be advised that setup may no
+ t be complete if you get here early. You can expect to see hundreds of car
+ s at this event\, so plan your trip to Chattanooga now and experience one 
+ of the greatest Cruise Ins in the South!\n\nThe goal for the Chattanooga C
+ ruise In is to have a great time and enjoy the old car hobby with lots of 
+ friends. We want to keep the list of rules and guidelines very simple and 
+ straightforward.\n\n* Saving parking spots is not permitted. If you want t
+ o park next to a friend\, be sure to drive in to the event together.\n* Ca
+ r clubs are welcome! Feel free to bring your whole crew\, but let us know 
+ ahead of time\, so we can reserve the appropriate amount of space!\n* We a
+ llow tents (EZ UP\, 10×10 max) but we only allow them in the grass parkin
+ g lot\, and they must be fastened to the ground with stakes or weights.\n*
+  Always follow the instructions from our parking crew—we try to pack as 
+ many cars as possible into the area\, so respect the parking crew’s dire
+ ction!\n*Trailers are permitted. If you have a drag car\, or any vehicle t
+ hat requires being towed in on a trailer\, please use the Finley Stadium p
+ arking lot for trailers.\n* Official hours are 10am to 4pm EST\, but cars 
+ start showing up early and the best parking is limited and fills up quickl
+ y. Overflow parking for the event is the north Finley Stadium parking lot.
+  As cars come and go throughout the day\, you are welcome to move your car
+  from overflow into the main cruise-in area.\n* Last but not least: Have F
+ UN!\n
+LOCATION:1317 Chestnut St\, Chattanooga\, TN 37402
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T220000
