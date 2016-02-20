@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Chattanooga Cruise In"
-date:   2016-04-30 10:00:00
+date:   2016-04-02 10:00:00
 end_date: 2016-04-02 16:00:00
 categories: carshow main
 location: "Coker Tire Chattanooga"
