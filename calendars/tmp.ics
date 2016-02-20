@@ -765,9 +765,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chattanooga Cruise In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T100000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160402T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160402T160000
-UID:2016-04-30 10:00:00/Chattanooga Cruise In
+UID:2016-04-02 10:00:00/Chattanooga Cruise In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.chattanoogac
  ruise-in.com/directions-and-details/\n Location: Coker Tire Chattanooga\n\
  n\n\n10am - 4pm\n\nAttention! We have announced the date for the 2016 Chat
