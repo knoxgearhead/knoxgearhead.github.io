@@ -27,13 +27,13 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160326T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160326T230000
-UID:2016-03-26 18:00:00/Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160326T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160326T170000
+UID:2016-03-26 12:00:00/Bracket Race
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at noon. Raci
+ ng starts at 1pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https:/
+ /www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
@@ -1232,14 +1232,15 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outlaw Heads Up
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160402T180000
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160402T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160402T230000
-UID:2016-04-02 18:00:00/Outlaw Heads Up
+UID:2016-04-02 10:00:00/Outlaw Heads Up
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
- \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
- ps://www.facebook.com/KnoxvilleDragstrip)\n
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 10am. Time
+  trials 11-noon. Qualifying starts at noon.\n\n7.0\, 6.0\, 4.70\, Pro Stre
+ et\, Cheap Street\, Street Bandits\, and Street Stick. \n\n[https://www.fa
+ cebook.com/KnoxvilleDragstrip](https://www.facebook.com/KnoxvilleDragstrip
+ )\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
