@@ -3,63 +3,6 @@ VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T220000
-UID:2016-08-12 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T220000
-UID:2016-09-09 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160507T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160507T120000
-UID:2016-05-07 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160701T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160701T220000
-UID:2016-07-01 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160603T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160603T220000
 UID:2016-06-03 17:00:00/Foothills Mall Cruise-In
@@ -72,209 +15,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T220000
-UID:2016-10-07 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T220000
-UID:2016-10-14 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160617T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160617T220000
-UID:2016-06-17 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160408T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160408T220000
-UID:2016-04-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T220000
-UID:2016-08-05 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160926T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160926T160000
-UID:2016-09-26 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSeptember 26. Open date\, p
- ossible announcement in 2016\n\n(Any year car\, truck or bike can enter)\n
- \nTHE DINER is a “One of a kind\, locally owned\, All American Diner”\
- nServing others as we want to be served ourselves and want our family to b
- e served.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lo
- we’s)\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Fo
- od/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RAT
- S car club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison 
- Ministries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibili
- ty for drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings eve
- ry cruise in for at least $100 and $50 paid by THE DINER or other voluntar
- y sponsors. Participants receive free beverage with their meal and 15% off
-  merchandise including shirts\, hats\, puzzles & cards. Trophies Sponsored
-  by Jack Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\
- n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T220000
-UID:2016-08-19 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161010T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161010T160000
-UID:2016-10-10 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nOctober 10. Combined THE DI
- NER’s 12th Anniversary Cruise In AND Special Cruise In Fundraiser for th
- e Second Harvest & Food Ministries in Memory of Courteney Kaliszewski and 
- Jeff Trussell. Music\, trophies\, goodies\, more.\n\n(Any year car\, truck
-  or bike can enter)\n\nTHE DINER is a “One of a kind\, locally owned\, A
- ll American Diner”\nServing others as we want to be served ourselves and
-  want our family to be served.\nOnly on Highway 66\, Sevierville\, TN (In 
- front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.biz\nTimeless
-  All American Good Food/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\n
- Home of THE DINER RATS car club\n\nRegistration is $10 & goes 100% to: ½ 
- to our Colson Prison Ministries Angel Tree & ½ to Wears Valley Ranch. Reg
- ister earns eligibility for drawings\, awards at Cruise In’s. 50/50 Draw
- ing plus Drawings every cruise in for at least $100 and $50 paid by THE DI
- NER or other voluntary sponsors. Participants receive free beverage with t
- heir meal and 15% off merchandise including shirts\, hats\, puzzles & card
- s. Trophies Sponsored by Jack Maness Insurance. Surprise Seasonal Trophies
-  at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T220000
-UID:2016-07-29 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160610T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160610T220000
-UID:2016-06-10 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160401T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160401T220000
-UID:2016-04-01 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:British Car Gathering
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160513T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160515T160000
-UID:2016-05-13 08:00:00/British Car Gathering
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.blountbritis
- hcars.org/gathering.htm\n Location: Townsend\n\n\n\nBlount British Cars\, 
- Ltd. has become a leader in the East Tennessee area by hosting a British C
- ar Gathering each spring. The first year\, we "Gathered" at Maryville Coll
- ege for British Day with 16 cars. Since then we have grown to more than 15
- 0 British Cars at some shows. The British Car Gathering is now held on the
-  grounds of the Talley Ho Inn in Townsend\, Tennessee. The Gathering has b
- een open to all British cars and motorcycles.\n\nAgain this year\, we are 
- partnering with the Knoxville English Auto Society and the show is open to
-  all makes of European classic cars as well as the traditional British car
- s we've featured before.\n\nEach year\, the Gathering draws cars from all 
- states surrounding and including Tennessee and as far north as Michigan\, 
- as far south as Florida and many other the places in between. Motorcars ha
- ve ranged from a 1932 Morris sedan and a 1935 MG Airline Coupe to 1950s\, 
- 1960s and newer models of MG\, Triumph\, Austin-Healey\, Jaguar\, Land Rov
- er\, Rolls-Royce\, Minis and Sunbeams. We have also had De Loreans and an 
- Amphicar. We even had an Austin-Healey Boat at one show. Owners range from
-  teenagers to Senior Citizens!\n\nProceeds from the Gatherings are donated
-  to various deserving local charities\, selected by a special comittee.\n\
- nMore info at event website.\n
-LOCATION:8314 TN-73\, Townsend\, TN 37882
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farragut Lions Club: Helping the World to See Charity Car Show
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
-UID:2016-10-01 08:00:00/Farragut Lions Club: Helping the World to See Char
- ity Car Show
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://farragut.tnlions
- .org/charity-car-show/\n Location: Chilhowee Park\n\n\n\nRods\, Customs\, 
- and Classics and Trucks thru 2016.\n\nRegistration Fee: $20\n\nAll proceed
- s go to Farragut Lions Club to support Sight Programs and other programs t
- he club supports.\n
-LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T220000
-UID:2016-09-16 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160701T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160701T220000
+UID:2016-07-01 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -312,9 +55,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160429T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160429T220000
-UID:2016-04-29 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T220000
+UID:2016-08-12 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -324,9 +67,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T220000
-UID:2016-07-15 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160513T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160513T220000
+UID:2016-05-13 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -336,246 +79,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160506T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160506T220000
-UID:2016-05-06 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NSRA: Street Rod Nationals South
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160506T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160508T160000
-UID:2016-05-06 08:00:00/NSRA: Street Rod Nationals South
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.nsra-usa.com
- /Events/\n Location: Chilhowee Park\n\n\n\nThe National Street Rod Associa
- tion's great slogan is 'Fun With Cars.' And it's really that simple.\n\nRe
- gistration Fee: $70 (day of event fee\; discounts available for pre-regist
- ration and members)\n\nONLY VEHICLES OF 1986 AND EARLIER MANUFACTURE ACCEP
- TED FOR PARTICIPATION AND/OR ENTRY TO EVENT. \n
-LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8th Annual Cruise Against Cancer
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160423T060000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160423T100000
-UID:2016-04-23 06:00:00/8th Annual Cruise Against Cancer
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/CelebrateLifeCruiseAgainstCancer\n Location: Newport\n\n\n\nNOTE: THE AB
- OVE FACEBOOK LINK MAY NOT WORK IF YOU ARE NOT LOGGED IN TO FACEBOOK.\n\nYO
- U CAN CHECK THE CAR CLUB'S WEBSITE\, BUT IT IS NOT UPDATED AS OF THIS POST
- ING: [HARD TIMES STREETROD CLUB](http://www.hardtimesstreetrodclub.com/).\
- n\nI HAVE ALSO LINKED THE FLYER HERE: [FLYER](/flyers/cruise-against-cance
- r.jpg).\n\nThis is an 18 hour cruise-in! 6AM - Midnight!\n\nMusic - Food -
-  Silent Auction\n\nNo charge to attend but donations greatly appreciated. 
- All proceeds benefit local area cancer patients.\n\nPresented by Hard Time
- s Streetrod Club and Celebrate Life Cancer Support Group.\n\nThis event wi
- ll be held rain or shine.\n\nFor more information contact: Nathan Manning 
- - Hard Times Streetrod Club - (865) 548-6152 [cruiseagainstcancer@yahoo.co
- m](mailto:cruiseagainstcancer@yahoo.com).\n
-LOCATION:120 Epley Rd\, Newport\, TN 37821
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
-UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Fall Rod Run
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160915T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T200000
-UID:2016-09-15 08:00:00/Grand Fall Rod Run
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
- nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Fall Grand Rod run consist
- s of an official car show at the LeConte Event Center. There are also tons
-  of cars parked and cruising along the Parkway each evening.\n
-LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160507T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160507T160000
-UID:2016-05-07 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday May 7. THE DINER
- ’s Annual Yellow Mustang Registry Cruise in 12 Noon – 4PM.\nWe’ll ha
- ve some fun & games\, do a 50-50\, some drawings for some prizes and just 
- generally appreciate these collectable cars that include customs from Rous
- ch\, Cobra and Saleen as if stock from the factory is not great. We’ll p
- ick a few of our favorites by the end of the day.\, about 4 PM Spring will
-  be sprung.\n\n(Any year car\, truck or bike can enter)\n\nTHE DINER is a 
- “One of a kind\, locally owned\, All American Diner”\nServing others a
- s we want to be served ourselves and want our family to be served.\nOnly o
- n Highway 66\, Sevierville\, TN (In front of Staples & Lowe’s)\, (865) 9
- 08-1904\, www.thediner.biz\nTimeless All American Good Food/Desserts\, Fai
- r Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car club\n\nReg
- istration is $10 & goes 100% to: ½ to our Colson Prison Ministries Angel 
- Tree & ½ to Wears Valley Ranch. Register earns eligibility for drawings\,
-  awards at Cruise In’s. 50/50 Drawing plus Drawings every cruise in for 
- at least $100 and $50 paid by THE DINER or other voluntary sponsors. Parti
- cipants receive free beverage with their meal and 15% off merchandise incl
- uding shirts\, hats\, puzzles & cards. Trophies Sponsored by Jack Maness I
- nsurance. Surprise Seasonal Trophies at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T220000
-UID:2016-06-24 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T220000
-UID:2016-10-21 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T220000
-UID:2016-08-26 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160702T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160702T120000
-UID:2016-07-02 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160527T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160527T220000
-UID:2016-05-27 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160422T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160422T220000
-UID:2016-04-22 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T220000
-UID:2016-07-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Spring Rod Run
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160414T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T200000
-UID:2016-04-14 08:00:00/Grand Spring Rod Run
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
- nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Spring Grand Rod run consi
- sts of an official car show at the LeConte Event Center. There are also to
- ns of cars parked and cruising along the Parkway each evening.\n
-LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T220000
-UID:2016-09-30 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
-UID:2016-11-05 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T220000
-UID:2016-09-02 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T220000
+UID:2016-09-16 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -610,87 +116,57 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160430T160000
+UID:2016-04-30 12:00:00/The Diner Cruise
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
+ /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday April 30. THE DINE
+ R’s Patriots Freedom Cruise In. The Smokies are bloomin\, get out of the
+  cabin & Cruise! Music by Gary’s Sound Machine. $10 puts you in drawings
+  for $100 & $50\, Free Beverage w/meal\, discounts on mdse\, Trophies for 
+ Best of Show\, THE DINER Pick\, THE DINER RATS Big Cheese\, Most Patriotic
+ . Noon to 5 PM\, 50/50\, Drawings & Prizes by 5 PM. Help kick off THE DINE
+ R’s Cruise In season.\n\n(Any year car\, truck or bike can enter)\n\nTHE
+  DINER is a “One of a kind\, locally owned\, All American Diner”\nServ
+ ing others as we want to be served ourselves and want our family to be ser
+ ved.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lowe’
+ s)\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Food/De
+ sserts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car
+  club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison Minis
+ tries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibility fo
+ r drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings every cr
+ uise in for at least $100 and $50 paid by THE DINER or other voluntary spo
+ nsors. Participants receive free beverage with their meal and 15% off merc
+ handise including shirts\, hats\, puzzles & cards. Trophies Sponsored by J
+ ack Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\n
+LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NSRA: Street Rod Nationals South
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160506T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160508T160000
+UID:2016-05-06 08:00:00/NSRA: Street Rod Nationals South
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.nsra-usa.com
+ /Events/\n Location: Chilhowee Park\n\n\n\nThe National Street Rod Associa
+ tion's great slogan is 'Fun With Cars.' And it's really that simple.\n\nRe
+ gistration Fee: $70 (day of event fee\; discounts available for pre-regist
+ ration and members)\n\nONLY VEHICLES OF 1986 AND EARLIER MANUFACTURE ACCEP
+ TED FOR PARTICIPATION AND/OR ENTRY TO EVENT. \n
+LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T220000
-UID:2016-07-22 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160429T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160429T220000
+UID:2016-04-29 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harper Auto Square's Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160424T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160424T120000
-UID:2016-04-24 08:00:00/Harper Auto Square's Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/events/211743985833739/\n Location: West Town Mall\n\n\n\nWE ASK THAT AL
- L GUEST ENTER OFF OF MONTVUE ROAD.\n\nThe official website is [http://www.
- harperautosquare.com/#cars-coffee-section](http://www.harperautosquare.com
- /#cars-coffee-section)\, but it does not appear to be updated as of this p
- osting.\n\nWe invite car lovers of all makes and models to Tennessee's lar
- gest Cars and Coffee event!\n\nWhen? SUNDAY - April 24th\, 2016\nWhere? We
- st Town Mall\nTime? 8 AM to 11 AM\n\nWest Town Mall address:\n7600 Kingsto
- n Pike Knoxville\, TN 37919\nu\nThe newly designed 8330 Laboratories 2016 
- Harper Auto Square Cars and Coffee T-Shirt will be available for purchase 
- at the Harper Auto Square Airstream!\n\nCan't go? Follow us on Instagram @
- harpercars and hash tag your photos using #harpercars or #harpercc!\n\nBri
- ng your ride and chat with hundreds of car enthusiasts sharing the same pa
- ssion - A love for cars!\n\nPhotos from October's record setting Cars and 
- Coffee event can be seen here: [Photos](https://www.facebook.com/media/set
- /?set=a.924127824325312.1073741836.687373894667374&type=3)\n\nOur custom A
- irstream car hauler will be on site\, as well as inventory from our Porsch
- e\, Audi\, Jaguar\, Infiniti\, Acura\, Volkswagen\, Maserati and FIAT stor
- es!\n\nDash plaques will be given to each car and t-shirts will be for sal
- e for $10 and what would be Cars and Coffee without free donuts and coffee
- !\n\nWe urge you to invite your friends and family!\n\nRpemember\, this is
-  a family oriented event. Please act respectively to other enthusiasts!\n\
- nKPD will be on site!\n\nSee you there!\n
-LOCATION:7600-H Kingston Pike\, Knoxville\, TN 37919
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chattanooga Cruise In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160402T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160402T160000
-UID:2016-04-02 10:00:00/Chattanooga Cruise In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.chattanoogac
- ruise-in.com/directions-and-details/\n Location: Coker Tire Chattanooga\n\
- n\n\n10am - 4pm\n\nAttention! We have announced the date for the 2016 Chat
- tanooga Cruise In! Mark your calendars for Saturday\, April 2\, 2016! The 
- event consists of a huge gathering of cars\, trucks and motorcycles\, and 
- an Open House at the Coker Tire\, Honest Charley Speed Shop and Honest Cha
- rley Garage facilities. We’ll have music\, as well as give-aways and pro
- motions throughout the day. Several food vendors will be set up\, and T-Bo
- nes and Southside Saloon & Bistro will be open for food and refreshments.\
- n\nCar clubs are welcome\, but please contact us before hand if you plan o
- n parking together. We realize everyone wants a great parking spot\, so ea
- rly arrivals are not turned away\, but please be advised that setup may no
- t be complete if you get here early. You can expect to see hundreds of car
- s at this event\, so plan your trip to Chattanooga now and experience one 
- of the greatest Cruise Ins in the South!\n\nThe goal for the Chattanooga C
- ruise In is to have a great time and enjoy the old car hobby with lots of 
- friends. We want to keep the list of rules and guidelines very simple and 
- straightforward.\n\n* Saving parking spots is not permitted. If you want t
- o park next to a friend\, be sure to drive in to the event together.\n* Ca
- r clubs are welcome! Feel free to bring your whole crew\, but let us know 
- ahead of time\, so we can reserve the appropriate amount of space!\n* We a
- llow tents (EZ UP\, 10×10 max) but we only allow them in the grass parkin
- g lot\, and they must be fastened to the ground with stakes or weights.\n*
-  Always follow the instructions from our parking crew—we try to pack as 
- many cars as possible into the area\, so respect the parking crew’s dire
- ction!\n*Trailers are permitted. If you have a drag car\, or any vehicle t
- hat requires being towed in on a trailer\, please use the Finley Stadium p
- arking lot for trailers.\n* Official hours are 10am to 4pm EST\, but cars 
- start showing up early and the best parking is limited and fills up quickl
- y. Overflow parking for the event is the north Finley Stadium parking lot.
-  As cars come and go throughout the day\, you are welcome to move your car
-  from overflow into the main cruise-in area.\n* Last but not least: Have F
- UN!\n
-LOCATION:1317 Chestnut St\, Chattanooga\, TN 37402
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -724,14 +200,68 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160415T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160415T220000
-UID:2016-04-15 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T220000
+UID:2016-10-14 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160507T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160507T160000
+UID:2016-05-07 12:00:00/The Diner Cruise
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
+ /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday May 7. THE DINER
+ ’s Annual Yellow Mustang Registry Cruise in 12 Noon – 4PM.\nWe’ll ha
+ ve some fun & games\, do a 50-50\, some drawings for some prizes and just 
+ generally appreciate these collectable cars that include customs from Rous
+ ch\, Cobra and Saleen as if stock from the factory is not great. We’ll p
+ ick a few of our favorites by the end of the day.\, about 4 PM Spring will
+  be sprung.\n\n(Any year car\, truck or bike can enter)\n\nTHE DINER is a 
+ “One of a kind\, locally owned\, All American Diner”\nServing others a
+ s we want to be served ourselves and want our family to be served.\nOnly o
+ n Highway 66\, Sevierville\, TN (In front of Staples & Lowe’s)\, (865) 9
+ 08-1904\, www.thediner.biz\nTimeless All American Good Food/Desserts\, Fai
+ r Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car club\n\nReg
+ istration is $10 & goes 100% to: ½ to our Colson Prison Ministries Angel 
+ Tree & ½ to Wears Valley Ranch. Register earns eligibility for drawings\,
+  awards at Cruise In’s. 50/50 Drawing plus Drawings every cruise in for 
+ at least $100 and $50 paid by THE DINER or other voluntary sponsors. Parti
+ cipants receive free beverage with their meal and 15% off merchandise incl
+ uding shirts\, hats\, puzzles & cards. Trophies Sponsored by Jack Maness I
+ nsurance. Surprise Seasonal Trophies at most Cruise Ins.\n
+LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farragut Lions Club: Helping the World to See Charity Car Show
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
+UID:2016-10-01 08:00:00/Farragut Lions Club: Helping the World to See Char
+ ity Car Show
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://farragut.tnlions
+ .org/charity-car-show/\n Location: Chilhowee Park\n\n\n\nRods\, Customs\, 
+ and Classics and Trucks thru 2016.\n\nRegistration Fee: $20\n\nAll proceed
+ s go to Farragut Lions Club to support Sight Programs and other programs t
+ he club supports.\n
+LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Spring Rod Run
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160414T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T200000
+UID:2016-04-14 08:00:00/Grand Spring Rod Run
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
+ nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Spring Grand Rod run consi
+ sts of an official car show at the LeConte Event Center. There are also to
+ ns of cars parked and cruising along the Parkway each evening.\n
+LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -747,52 +277,27 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160430T160000
-UID:2016-04-30 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday April 30. THE DINE
- R’s Patriots Freedom Cruise In. The Smokies are bloomin\, get out of the
-  cabin & Cruise! Music by Gary’s Sound Machine. $10 puts you in drawings
-  for $100 & $50\, Free Beverage w/meal\, discounts on mdse\, Trophies for 
- Best of Show\, THE DINER Pick\, THE DINER RATS Big Cheese\, Most Patriotic
- . Noon to 5 PM\, 50/50\, Drawings & Prizes by 5 PM. Help kick off THE DINE
- R’s Cruise In season.\n\n(Any year car\, truck or bike can enter)\n\nTHE
-  DINER is a “One of a kind\, locally owned\, All American Diner”\nServ
- ing others as we want to be served ourselves and want our family to be ser
- ved.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lowe’
- s)\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Food/De
- sserts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car
-  club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison Minis
- tries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibility fo
- r drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings every cr
- uise in for at least $100 and $50 paid by THE DINER or other voluntary spo
- nsors. Participants receive free beverage with their meal and 15% off merc
- handise including shirts\, hats\, puzzles & cards. Trophies Sponsored by J
- ack Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160422T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160422T220000
+UID:2016-04-22 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T120000
-UID:2016-09-03 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T220000
+UID:2016-09-30 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -824,6 +329,18 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T220000
+UID:2016-07-29 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Diner Cruise
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T120000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T160000
@@ -852,6 +369,204 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T220000
+UID:2016-07-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8th Annual Cruise Against Cancer
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160423T060000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160423T100000
+UID:2016-04-23 06:00:00/8th Annual Cruise Against Cancer
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/CelebrateLifeCruiseAgainstCancer\n Location: Newport\n\n\n\nNOTE: THE AB
+ OVE FACEBOOK LINK MAY NOT WORK IF YOU ARE NOT LOGGED IN TO FACEBOOK.\n\nYO
+ U CAN CHECK THE CAR CLUB'S WEBSITE\, BUT IT IS NOT UPDATED AS OF THIS POST
+ ING: [HARD TIMES STREETROD CLUB](http://www.hardtimesstreetrodclub.com/).\
+ n\nI HAVE ALSO LINKED THE FLYER HERE: [FLYER](/flyers/cruise-against-cance
+ r.jpg).\n\nThis is an 18 hour cruise-in! 6AM - Midnight!\n\nMusic - Food -
+  Silent Auction\n\nNo charge to attend but donations greatly appreciated. 
+ All proceeds benefit local area cancer patients.\n\nPresented by Hard Time
+ s Streetrod Club and Celebrate Life Cancer Support Group.\n\nThis event wi
+ ll be held rain or shine.\n\nFor more information contact: Nathan Manning 
+ - Hard Times Streetrod Club - (865) 548-6152 [cruiseagainstcancer@yahoo.co
+ m](mailto:cruiseagainstcancer@yahoo.com).\n
+LOCATION:120 Epley Rd\, Newport\, TN 37821
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T220000
+UID:2016-10-07 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T220000
+UID:2016-08-05 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T220000
+UID:2016-10-21 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T220000
+UID:2016-07-22 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160507T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160507T120000
+UID:2016-05-07 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T220000
+UID:2016-08-26 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160617T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160617T220000
+UID:2016-06-17 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T220000
+UID:2016-07-08 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160506T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160506T220000
+UID:2016-05-06 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160527T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160527T220000
+UID:2016-05-27 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160926T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160926T160000
+UID:2016-09-26 12:00:00/The Diner Cruise
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
+ /2015-schedule/\n Location: Sevierville\n\n\n\nSeptember 26. Open date\, p
+ ossible announcement in 2016\n\n(Any year car\, truck or bike can enter)\n
+ \nTHE DINER is a “One of a kind\, locally owned\, All American Diner”\
+ nServing others as we want to be served ourselves and want our family to b
+ e served.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lo
+ we’s)\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Fo
+ od/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RAT
+ S car club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison 
+ Ministries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibili
+ ty for drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings eve
+ ry cruise in for at least $100 and $50 paid by THE DINER or other voluntar
+ y sponsors. Participants receive free beverage with their meal and 15% off
+  merchandise including shirts\, hats\, puzzles & cards. Trophies Sponsored
+  by Jack Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\
+ n
+LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T220000
+UID:2016-06-24 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160520T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160520T220000
 UID:2016-05-20 17:00:00/Foothills Mall Cruise-In
@@ -863,49 +578,235 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cars and Coffee - Cruisin' with Heart
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160402T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160402T120000
-UID:2016-04-02 08:00:00/Cars and Coffee - Cruisin' with Heart
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T120000
+UID:2016-09-03 08:00:00/European Auto Garage Cars and Coffee
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/events/209708119368866/\n Location: Turkey Creek\n\n\nEvent starts at 8a
- m at Regal Pinnacle 18 @ Turkey Creek.\n\nEuropean Auto garage is pleased 
- to host Cars and Coffee and Poker Run to benefit Variety\, the Children's 
- Charity of Eastern Tennessee. Immediately following Cars and Coffee April2
- \, the Poker Run will depart on a 120-150 mile loop of East Tennessee's fi
- nest driving roads with five checkpoints along the way. At each checkpoint
-  a card will be drawn and noted on your scoresheet - best hand wins! Award
-  ceremony\, dinner\, and live music back at Eurpoean Auto Garage. Poker Ru
- n ticket info to follow very soon.\n\nCome out to Regal Cinemas Pinnacle 1
- 8 in Turkey Creek on Saturday morning\, April 2 and check out this incredi
- ble event. Park your ride\, grab a cup of Green Mountain Coffee\, and meet
-  some amazing people. From rare exotic cars and barn find classics to big 
- trucks and motorcycles\, there’s sure to be something for everyone! Bid 
- for your chance to win some awesome silent auction items donated by our ge
- nerous sponsors and help support Variety’s Kids on the Go! program. Be s
- ure to join us on the Poker Run.\n\nVariety's Kids on the Go! program aims
-  to help kids gain mobility\, confidence\, freedom\, independence and the 
- chance to join in the life of their community by providing funding for wal
- kers\, wheelchairs\, specially-designed adaptive bikes\, strollers\, van l
- ifts and other devices to families with the most need. Come and experience
-  Variety at work in the community as we present a specially-designed adapt
- ive trike to a local child in need. You won’t want to miss this exciting
-  and emotional opportunity!\n\nThis is a free event and open to the public
- !\n\nTo Make a Donation please visit: [http://www.varietytn.org/](http://w
- ww.varietytn.org/)\n
-LOCATION:11240 Parkside Dr\, Knoxville\, Tennessee 37934
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160513T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160513T220000
-UID:2016-05-13 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160610T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160610T220000
+UID:2016-06-10 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T220000
+UID:2016-09-02 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T220000
+UID:2016-09-09 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
+UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160415T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160415T220000
+UID:2016-04-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161010T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161010T160000
+UID:2016-10-10 12:00:00/The Diner Cruise
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
+ /2015-schedule/\n Location: Sevierville\n\n\n\nOctober 10. Combined THE DI
+ NER’s 12th Anniversary Cruise In AND Special Cruise In Fundraiser for th
+ e Second Harvest & Food Ministries in Memory of Courteney Kaliszewski and 
+ Jeff Trussell. Music\, trophies\, goodies\, more.\n\n(Any year car\, truck
+  or bike can enter)\n\nTHE DINER is a “One of a kind\, locally owned\, A
+ ll American Diner”\nServing others as we want to be served ourselves and
+  want our family to be served.\nOnly on Highway 66\, Sevierville\, TN (In 
+ front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.biz\nTimeless
+  All American Good Food/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\n
+ Home of THE DINER RATS car club\n\nRegistration is $10 & goes 100% to: ½ 
+ to our Colson Prison Ministries Angel Tree & ½ to Wears Valley Ranch. Reg
+ ister earns eligibility for drawings\, awards at Cruise In’s. 50/50 Draw
+ ing plus Drawings every cruise in for at least $100 and $50 paid by THE DI
+ NER or other voluntary sponsors. Participants receive free beverage with t
+ heir meal and 15% off merchandise including shirts\, hats\, puzzles & card
+ s. Trophies Sponsored by Jack Maness Insurance. Surprise Seasonal Trophies
+  at most Cruise Ins.\n
+LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:British Car Gathering
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160513T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160515T160000
+UID:2016-05-13 08:00:00/British Car Gathering
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.blountbritis
+ hcars.org/gathering.htm\n Location: Townsend\n\n\n\nBlount British Cars\, 
+ Ltd. has become a leader in the East Tennessee area by hosting a British C
+ ar Gathering each spring. The first year\, we "Gathered" at Maryville Coll
+ ege for British Day with 16 cars. Since then we have grown to more than 15
+ 0 British Cars at some shows. The British Car Gathering is now held on the
+  grounds of the Talley Ho Inn in Townsend\, Tennessee. The Gathering has b
+ een open to all British cars and motorcycles.\n\nAgain this year\, we are 
+ partnering with the Knoxville English Auto Society and the show is open to
+  all makes of European classic cars as well as the traditional British car
+ s we've featured before.\n\nEach year\, the Gathering draws cars from all 
+ states surrounding and including Tennessee and as far north as Michigan\, 
+ as far south as Florida and many other the places in between. Motorcars ha
+ ve ranged from a 1932 Morris sedan and a 1935 MG Airline Coupe to 1950s\, 
+ 1960s and newer models of MG\, Triumph\, Austin-Healey\, Jaguar\, Land Rov
+ er\, Rolls-Royce\, Minis and Sunbeams. We have also had De Loreans and an 
+ Amphicar. We even had an Austin-Healey Boat at one show. Owners range from
+  teenagers to Senior Citizens!\n\nProceeds from the Gatherings are donated
+  to various deserving local charities\, selected by a special comittee.\n\
+ nMore info at event website.\n
+LOCATION:8314 TN-73\, Townsend\, TN 37882
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160702T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160702T120000
+UID:2016-07-02 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
+UID:2016-11-05 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T220000
+UID:2016-08-19 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Fall Rod Run
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160915T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T200000
+UID:2016-09-15 08:00:00/Grand Fall Rod Run
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
+ nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Fall Grand Rod run consist
+ s of an official car show at the LeConte Event Center. There are also tons
+  of cars parked and cruising along the Parkway each evening.\n
+LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harper Auto Square's Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160424T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160424T120000
+UID:2016-04-24 08:00:00/Harper Auto Square's Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/events/211743985833739/\n Location: West Town Mall\n\n\n\nWE ASK THAT AL
+ L GUEST ENTER OFF OF MONTVUE ROAD.\n\nThe official website is [http://www.
+ harperautosquare.com/#cars-coffee-section](http://www.harperautosquare.com
+ /#cars-coffee-section)\, but it does not appear to be updated as of this p
+ osting.\n\nWe invite car lovers of all makes and models to Tennessee's lar
+ gest Cars and Coffee event!\n\nWhen? SUNDAY - April 24th\, 2016\nWhere? We
+ st Town Mall\nTime? 8 AM to 11 AM\n\nWest Town Mall address:\n7600 Kingsto
+ n Pike Knoxville\, TN 37919\nu\nThe newly designed 8330 Laboratories 2016 
+ Harper Auto Square Cars and Coffee T-Shirt will be available for purchase 
+ at the Harper Auto Square Airstream!\n\nCan't go? Follow us on Instagram @
+ harpercars and hash tag your photos using #harpercars or #harpercc!\n\nBri
+ ng your ride and chat with hundreds of car enthusiasts sharing the same pa
+ ssion - A love for cars!\n\nPhotos from October's record setting Cars and 
+ Coffee event can be seen here: [Photos](https://www.facebook.com/media/set
+ /?set=a.924127824325312.1073741836.687373894667374&type=3)\n\nOur custom A
+ irstream car hauler will be on site\, as well as inventory from our Porsch
+ e\, Audi\, Jaguar\, Infiniti\, Acura\, Volkswagen\, Maserati and FIAT stor
+ es!\n\nDash plaques will be given to each car and t-shirts will be for sal
+ e for $10 and what would be Cars and Coffee without free donuts and coffee
+ !\n\nWe urge you to invite your friends and family!\n\nRpemember\, this is
+  a family oriented event. Please act respectively to other enthusiasts!\n\
+ nKPD will be on site!\n\nSee you there!\n
+LOCATION:7600-H Kingston Pike\, Knoxville\, TN 37919
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
