@@ -1154,6 +1154,21 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T120000
+UID:2016-08-13 08:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://missionofhope.or
+ g/cruisin-for-kids-car-show-2/\n Location: Clinton Highway\n\n\n\nLocated 
+ at Joe Neubert Collision Center on Clinton Highway. \n\nRegistration 8-10a
+ m. Awards at 2pm.\n\nNo current website for this cruise in. I will try to 
+ get a copy of the flyer \nI saw today up if I get one. If you know\nof a c
+ urrent website for this event please email me at knoxgearhead@knoxgearhead
+ .com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Diner Cruise
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160926T120000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160926T160000
