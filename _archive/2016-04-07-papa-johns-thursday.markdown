@@ -3,8 +3,8 @@ layout: event
 title:  "Papa Johns Cruise-In"
 date:   2016-04-07 18:00:00
 categories: carshow main
-location: "Clinton Highway"
-address: "5086 Clinton Hwy, Knoxville, TN 37912"
+location: "Asheville Highway"
+address: "6215 Riverview Crossing, Knoxville, TN 37924"
 website: "https://www.facebook.com/Papa-Johns-Pizza-Doughrific-Development-533247363406113/"
 rec_start: 2016-03-30 18:00:00
 rec_end: 2016-10-31 21:00:00
