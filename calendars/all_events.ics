@@ -15,6 +15,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160811T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160811T210000
+UID:2016-08-11 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bracket Race
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T230000
@@ -48,6 +61,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T200000
+UID:2016-10-29 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -85,6 +111,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
  ps://www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T200000
+UID:2016-10-22 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -128,6 +167,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160806T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160806T200000
+UID:2016-08-06 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T230000
@@ -137,6 +189,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160521T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160521T200000
+UID:2016-05-21 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -164,6 +229,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160707T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160707T210000
+UID:2016-07-07 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T220000
@@ -180,18 +258,6 @@ SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160506T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160506T230000
 UID:2016-05-06 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160415T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160415T230000
-UID:2016-04-15 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
@@ -224,6 +290,58 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160519T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160519T210000
+UID:2016-05-19 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160723T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160723T200000
+UID:2016-07-23 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T200000
+UID:2016-08-13 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160423T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160423T200000
+UID:2016-04-23 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160513T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160513T220000
@@ -246,6 +364,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
  ps://www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160908T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160908T210000
+UID:2016-09-08 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -273,6 +404,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160602T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160602T210000
+UID:2016-06-02 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Diner Cruise
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T120000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T160000
@@ -296,6 +440,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
  andise including shirts\, hats\, puzzles & cards. Trophies Sponsored by Ja
  ck Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\n
 LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160430T200000
+UID:2016-04-30 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -389,6 +546,32 @@ LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160514T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160514T200000
+UID:2016-05-14 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160728T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160728T210000
+UID:2016-07-28 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160429T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160429T220000
@@ -410,6 +593,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T200000
+UID:2016-09-03 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -442,6 +638,58 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160416T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T200000
+UID:2016-04-16 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160507T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160507T200000
+UID:2016-05-07 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160609T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160609T210000
+UID:2016-06-09 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160702T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160702T200000
+UID:2016-07-02 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160701T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160701T230000
@@ -463,6 +711,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160630T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160630T210000
+UID:2016-06-30 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -566,6 +827,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T200000
+UID:2016-09-10 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Farragut Lions Club: Helping the World to See Charity Car Show
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
@@ -577,6 +851,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://farragut.tnlions
  s go to Farragut Lions Club to support Sight Programs and other programs t
  he club supports.\n
 LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160825T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160825T210000
+UID:2016-08-25 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -595,6 +882,32 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161013T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161013T210000
+UID:2016-10-13 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160709T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160709T200000
+UID:2016-07-09 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Spring Rod Run
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160414T080000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T200000
@@ -604,6 +917,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
  sts of an official car show at the LeConte Event Center. There are also to
  ns of cars parked and cruising along the Parkway each evening.\n
 LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T200000
+UID:2016-07-30 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -628,6 +954,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161006T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161006T210000
+UID:2016-10-06 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -664,6 +1003,84 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160526T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160526T210000
+UID:2016-05-26 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161008T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161008T200000
+UID:2016-10-08 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160623T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160623T210000
+UID:2016-06-23 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160804T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160804T210000
+UID:2016-08-04 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T200000
+UID:2016-10-15 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160820T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160820T200000
+UID:2016-08-20 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -839,6 +1256,19 @@ LOCATION:120 Epley Rd\, Newport\, TN 37821
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161027T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161027T210000
+UID:2016-10-27 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T220000
@@ -851,6 +1281,19 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160616T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160616T210000
+UID:2016-06-16 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Points Bracket Race #5
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160514T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160514T230000
@@ -860,6 +1303,32 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161020T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161020T210000
+UID:2016-10-20 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160929T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160929T210000
+UID:2016-09-29 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -884,6 +1353,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160528T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160528T200000
+UID:2016-05-28 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -956,6 +1438,19 @@ LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160428T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160428T210000
+UID:2016-04-28 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southeast Gassers Plus Points Bracket #7
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160528T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160528T230000
@@ -973,6 +1468,45 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160618T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160618T200000
+UID:2016-06-18 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160512T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160512T210000
+UID:2016-05-12 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160611T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160611T200000
+UID:2016-06-11 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161118T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161118T230000
@@ -985,6 +1519,32 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160721T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160721T210000
+UID:2016-07-21 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160922T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160922T210000
+UID:2016-09-22 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$3000 Pro Bracket Race
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T230000
@@ -994,6 +1554,45 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160818T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160818T210000
+UID:2016-08-18 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T200000
+UID:2016-08-27 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160917T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T200000
+UID:2016-09-17 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1105,6 +1704,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160924T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160924T200000
+UID:2016-09-24 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160527T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160527T220000
@@ -1141,6 +1753,19 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160716T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160716T200000
+UID:2016-07-16 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T220000
@@ -1174,6 +1799,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160604T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160604T200000
+UID:2016-06-04 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1246,6 +1884,19 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T200000
+UID:2016-10-01 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T220000
@@ -1270,6 +1921,19 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160901T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160901T210000
+UID:2016-09-01 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T230000
@@ -1279,6 +1943,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160625T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160625T200000
+UID:2016-06-25 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1294,22 +1971,23 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
-UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160714T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160714T210000
+UID:2016-07-14 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160415T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160415T220000
-UID:2016-04-15 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
+UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -1486,6 +2164,32 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160421T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160421T210000
+UID:2016-04-21 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160505T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160505T210000
+UID:2016-05-05 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Fall Rod Run
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160915T080000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T200000
@@ -1507,6 +2211,19 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160915T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160915T210000
+UID:2016-09-15 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Cli
+ nton Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Papa
+  Johns near the intersection\nof Asheville Highway and John Sevier Highway
+ .
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
