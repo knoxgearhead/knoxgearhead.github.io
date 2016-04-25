@@ -329,19 +329,6 @@ LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160423T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160423T200000
-UID:2016-04-23 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160513T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160513T220000
@@ -639,19 +626,6 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160416T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T200000
-UID:2016-04-16 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160507T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160507T200000
 UID:2016-05-07 17:00:00/Joe Neubert Cruise-In
@@ -815,18 +789,6 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160416T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T230000
-UID:2016-04-16 18:00:00/Points Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 2pm. Time 
- trials begin 3pm. Racing begins ~5pm.\n\n[https://www.facebook.com/Knoxvil
- leDragstrip](https://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T200000
@@ -908,18 +870,6 @@ LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Spring Rod Run
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160414T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160416T200000
-UID:2016-04-14 08:00:00/Grand Spring Rod Run
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
- nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Spring Grand Rod run consi
- sts of an official car show at the LeConte Event Center. There are also to
- ns of cars parked and cruising along the Parkway each evening.\n
-LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T200000
@@ -945,18 +895,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160422T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160422T220000
-UID:2016-04-22 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161006T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161006T210000
@@ -970,34 +908,10 @@ LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race #3
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160423T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160423T230000
-UID:2016-04-23 18:00:00/Points Bracket Race #3
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T230000
 UID:2016-08-05 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160422T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160422T230000
-UID:2016-04-22 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
@@ -1232,27 +1146,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8th Annual Cruise Against Cancer
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160423T060000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160423T100000
-UID:2016-04-23 06:00:00/8th Annual Cruise Against Cancer
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/CelebrateLifeCruiseAgainstCancer\n Location: Newport\n\n\n\nNOTE: THE AB
- OVE FACEBOOK LINK MAY NOT WORK IF YOU ARE NOT LOGGED IN TO FACEBOOK.\n\nYO
- U CAN CHECK THE CAR CLUB'S WEBSITE\, BUT IT IS NOT UPDATED AS OF THIS POST
- ING: [HARD TIMES STREETROD CLUB](http://www.hardtimesstreetrodclub.com/).\
- n\nI HAVE ALSO LINKED THE FLYER HERE: [FLYER](/flyers/cruise-against-cance
- r.jpg).\n\nThis is an 18 hour cruise-in! 6AM - Midnight!\n\nMusic - Food -
-  Silent Auction\n\nNo charge to attend but donations greatly appreciated. 
- All proceeds benefit local area cancer patients.\n\nPresented by Hard Time
- s Streetrod Club and Celebrate Life Cancer Support Group.\n\nThis event wi
- ll be held rain or shine.\n\nFor more information contact: Nathan Manning 
- - Hard Times Streetrod Club - (865) 548-6152 [cruiseagainstcancer@yahoo.co
- m](mailto:cruiseagainstcancer@yahoo.com).\n
-LOCATION:120 Epley Rd\, Newport\, TN 37821
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1701,6 +1594,37 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harper Auto Square's Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160710T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160710T120000
+UID:2016-07-10 08:00:00/Harper Auto Square's Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/events/211743985833739/\n Location: West Town Mall\n\n\n\nKNOXGEARHEAD N
+ OTE: CARS START SHOWING UP AT 6AM TO GET THE BEST SPOTS. HOWEVER\,\nTHERE 
+ IS SUFFFICIENT PARKING NO MATTER WHAT TIME YOU SHOW UP.\n\nWE ASK THAT ALL
+  GUEST ENTER OFF OF MONTVUE ROAD.\n\nThe official website is [http://www.h
+ arperautosquare.com/#cars-coffee-section](http://www.harperautosquare.com/
+ #cars-coffee-section)\, but it does not appear to be updated as of this po
+ sting.\n\nWe invite car lovers of all makes and models to Tennessee's larg
+ est Cars and Coffee event!\n\nWhen? SUNDAY - July 10th\, 2016\nWhere? West
+  Town Mall\nTime? 8 AM to 11 AM\n\nWest Town Mall address:\n7600 Kingston 
+ Pike Knoxville\, TN 37919\nu\nThe newly designed 8330 Laboratories 2016 Ha
+ rper Auto Square Cars and Coffee T-Shirt will be available for purchase at
+  the Harper Auto Square Airstream!\n\nCan't go? Follow us on Instagram @ha
+ rpercars and hash tag your photos using #harpercars or #harpercc!\n\nBring
+  your ride and chat with hundreds of car enthusiasts sharing the same pass
+ ion - A love for cars!\n\nOur custom Airstream car hauler will be on site\
+ , as well as inventory from our Porsche\, Audi\, Jaguar\, Infiniti\, Acura
+ \, Volkswagen\, Maserati and FIAT stores!\n\nDash plaques will be given to
+  each car and t-shirts will be for sale for $10 and what would be Cars and
+  Coffee without free donuts and coffee!\n\nWe urge you to invite your frie
+ nds and family!\n\nRpemember\, this is a family oriented event. Please act
+  respectively to other enthusiasts!\n\nKPD will be on site!\n\nSee you the
+ re!\n
+LOCATION:7600-H Kingston Pike\, Knoxville\, TN 37919
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -2176,19 +2100,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160421T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160421T210000
-UID:2016-04-21 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
