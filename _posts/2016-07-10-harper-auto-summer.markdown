@@ -5,7 +5,7 @@ date:   2016-07-10 08:00:00
 categories: carshow main
 location: "West Town Mall"
 address: "7600-H Kingston Pike, Knoxville, TN 37919"
-website: "https://www.facebook.com/events/211743985833739/"
+website: "https://www.facebook.com/harpercarsandcoffee/"
 ---
 
 KNOXGEARHEAD NOTE: CARS START SHOWING UP AT 6AM TO GET THE BEST SPOTS. HOWEVER,
