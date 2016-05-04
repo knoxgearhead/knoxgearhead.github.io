@@ -30,6 +30,7 @@ Gates Open 8:30am
 ================
 Admission:
 ================
+
 Friday $10
 
 Saturday $20
@@ -41,6 +42,7 @@ Saturday $20
 ================
 Entry Fees:
 ================
+
 LDR $200
 
 X275 $150
