@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Joe Neubert Cruise-In"
+title:  "Cruisin For Kids Car Show"
 date:   2016-08-13 08:00:00
 categories: carshow main
 location: "Clinton Highway"

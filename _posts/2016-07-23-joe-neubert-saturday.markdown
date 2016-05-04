@@ -10,6 +10,8 @@ rec_start: 2016-03-30 17:00:00
 rec_end: 2016-10-31 20:00:00
 rec_period: weekly
 rec_day: saturday
+rec_skip:
+ - 2016-08-13
 ---
 
 Every Saturday starting at 5pm April through October? at beside Joe Neubert

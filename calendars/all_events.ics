@@ -242,6 +242,18 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160506T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160506T230000
+UID:2016-05-06 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Brawl at Knoxville vs Brainerd
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161112T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161112T230000
@@ -283,19 +295,6 @@ SUMMARY:Joe Neubert Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160723T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160723T200000
 UID:2016-07-23 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T200000
-UID:2016-08-13 17:00:00/Joe Neubert Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
  .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
  ril through October? at beside Joe Neubert\nCollision Center behind Advanc
@@ -1557,10 +1556,10 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
+SUMMARY:Cruisin For Kids Car Show
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T080000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T120000
-UID:2016-08-13 08:00:00/Joe Neubert Cruise-In
+UID:2016-08-13 08:00:00/Cruisin For Kids Car Show
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://missionofhope.or
  g/cruisin-for-kids-car-show-2/\n Location: Clinton Highway\n\n\n\nLocated 
  at Joe Neubert Collision Center on Clinton Highway. \n\nRegistration 8-10a
