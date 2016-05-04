@@ -217,18 +217,6 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race #4 Plus Rat Rods
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160430T230000
-UID:2016-04-30 18:00:00/Points Bracket Race #4 Plus Rat Rods
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160707T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160707T210000
@@ -430,47 +418,6 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160430T200000
-UID:2016-04-30 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160430T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160430T160000
-UID:2016-04-30 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday April 30. THE DINE
- R’s Patriots Freedom Cruise In. The Smokies are bloomin\, get out of the
-  cabin & Cruise! Music by Gary’s Sound Machine. $10 puts you in drawings
-  for $100 & $50\, Free Beverage w/meal\, discounts on mdse\, Trophies for 
- Best of Show\, THE DINER Pick\, THE DINER RATS Big Cheese\, Most Patriotic
- . Noon to 5 PM\, 50/50\, Drawings & Prizes by 5 PM. Help kick off THE DINE
- R’s Cruise In season.\n\n(Any year car\, truck or bike can enter)\n\nTHE
-  DINER is a “One of a kind\, locally owned\, All American Diner”\nServ
- ing others as we want to be served ourselves and want our family to be ser
- ved.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lowe’
- s)\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Food/De
- sserts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car
-  club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison Minis
- tries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibility fo
- r drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings every cr
- uise in for at least $100 and $50 paid by THE DINER or other voluntary spo
- nsors. Participants receive free beverage with their meal and 15% off merc
- handise including shirts\, hats\, puzzles & cards. Trophies Sponsored by J
- ack Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T230000
@@ -556,18 +503,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
  ay.
 LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160429T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160429T220000
-UID:2016-04-29 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1125,18 +1060,6 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160429T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160429T230000
-UID:2016-04-29 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T220000
@@ -1328,19 +1251,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  nt for more information.\n\n[Alternate Website](http://europeanautogarage.
  com/cars-coffee/)\n
 LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160428T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160428T210000
-UID:2016-04-28 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -2150,37 +2060,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
  ay.
 LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harper Auto Square's Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160424T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160424T120000
-UID:2016-04-24 08:00:00/Harper Auto Square's Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/events/211743985833739/\n Location: West Town Mall\n\n\n\nWE ASK THAT AL
- L GUEST ENTER OFF OF MONTVUE ROAD.\n\nThe official website is [http://www.
- harperautosquare.com/#cars-coffee-section](http://www.harperautosquare.com
- /#cars-coffee-section)\, but it does not appear to be updated as of this p
- osting.\n\nWe invite car lovers of all makes and models to Tennessee's lar
- gest Cars and Coffee event!\n\nWhen? SUNDAY - April 24th\, 2016\nWhere? We
- st Town Mall\nTime? 8 AM to 11 AM\n\nWest Town Mall address:\n7600 Kingsto
- n Pike Knoxville\, TN 37919\nu\nThe newly designed 8330 Laboratories 2016 
- Harper Auto Square Cars and Coffee T-Shirt will be available for purchase 
- at the Harper Auto Square Airstream!\n\nCan't go? Follow us on Instagram @
- harpercars and hash tag your photos using #harpercars or #harpercc!\n\nBri
- ng your ride and chat with hundreds of car enthusiasts sharing the same pa
- ssion - A love for cars!\n\nPhotos from October's record setting Cars and 
- Coffee event can be seen here: [Photos](https://www.facebook.com/media/set
- /?set=a.924127824325312.1073741836.687373894667374&type=3)\n\nOur custom A
- irstream car hauler will be on site\, as well as inventory from our Porsch
- e\, Audi\, Jaguar\, Infiniti\, Acura\, Volkswagen\, Maserati and FIAT stor
- es!\n\nDash plaques will be given to each car and t-shirts will be for sal
- e for $10 and what would be Cars and Coffee without free donuts and coffee
- !\n\nWe urge you to invite your friends and family!\n\nRpemember\, this is
-  a family oriented event. Please act respectively to other enthusiasts!\n\
- nKPD will be on site!\n\nSee you there!\n
-LOCATION:7600-H Kingston Pike\, Knoxville\, TN 37919
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
