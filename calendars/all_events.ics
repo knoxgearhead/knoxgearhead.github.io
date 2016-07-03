@@ -2,10 +2,161 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Calendar//knoxgearhead.com//
 BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161125T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161125T230000
+UID:2016-11-25 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T203000
+UID:2016-07-22 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Points Bracket Race #15
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160820T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160820T230000
+UID:2016-08-20 18:00:00/Points Bracket Race #15
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T203000
+UID:2016-10-21 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T220000
+UID:2016-07-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outlaw Heads Up
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160806T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160806T230000
+UID:2016-08-06 18:00:00/Outlaw Heads Up
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
+ \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
+ ps://www.facebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T230000
+UID:2016-10-29 18:00:00/Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T200000
 UID:2016-07-30 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160702T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160702T200000
+UID:2016-07-02 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Points Bracket Race #11
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160716T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160716T230000
+UID:2016-07-16 18:00:00/Points Bracket Race #11
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nNo points for jrs.\n\nGa
+ tes open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDrag
+ strip](https://www.facebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T203000
+UID:2016-08-12 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161027T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161027T210000
+UID:2016-10-27 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160716T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160716T200000
+UID:2016-07-16 17:00:00/Joe Neubert Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
  .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
  ril through October? at beside Joe Neubert\nCollision Center behind Advanc
@@ -28,133 +179,6 @@ LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T203000
-UID:2016-10-14 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T220000
-UID:2016-09-02 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T230000
-UID:2016-10-21 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160825T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160825T210000
-UID:2016-08-25 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161104T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161104T230000
-UID:2016-11-04 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160818T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160818T210000
-UID:2016-08-18 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T200000
-UID:2016-08-27 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T200000
-UID:2016-10-29 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160922T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160922T210000
-UID:2016-09-22 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160723T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160723T200000
-UID:2016-07-23 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$3000 Pro Bracket Race
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160709T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160709T230000
@@ -164,42 +188,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160617T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160617T220000
-UID:2016-06-17 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #13
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T230000
-UID:2016-07-30 18:00:00/Points Bracket Race #13
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160701T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160701T220000
-UID:2016-07-01 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -216,65 +204,122 @@ LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160929T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160929T210000
-UID:2016-09-29 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T160000
-UID:2016-11-05 12:00:00/The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T160000
+UID:2016-08-27 12:00:00/The Diner Cruise
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday November 5. THE DI
- NER’s Veterans Day Cruise In. Wednesay the 11h is Veterans Day. Music by
-  Gary’s Sound Machine. $10 puts you in drawings for $100 & $50\, Free Be
- verage w/meal\, discounts on mdse\, Trophies for Best of Show\, THE DINER 
- Pick\, THE DINER RATS Big Cheese\, Most Patriotic\, plus more. Noon to 5 P
- M\, 50/50\, Drawings & Prizes by 5 PM. Fall colors will usually linger unt
- il now. We honor our veterans\, their commitment & sacrifices.\n\n(Any yea
- r car\, truck or bike can enter)\n\nTHE DINER is a “One of a kind\, loca
- lly owned\, All American Diner”\nServing others as we want to be served 
- ourselves and want our family to be served.\nOnly on Highway 66\, Seviervi
- lle\, TN (In front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.
- biz\nTimeless All American Good Food/Desserts\, Fair Prices\, Poodle Skirt
- s\, Jukebox\nHome of THE DINER RATS car club\n\nRegistration is $10 & goes
-  100% to: ½ to our Colson Prison Ministries Angel Tree & ½ to Wears Vall
- ey Ranch. Register earns eligibility for drawings\, awards at Cruise In’
- s. 50/50 Drawing plus Drawings every cruise in for at least $100 and $50 p
- aid by THE DINER or other voluntary sponsors. Participants receive free be
- verage with their meal and 15% off merchandise including shirts\, hats\, p
- uzzles & cards. Trophies Sponsored by Jack Maness Insurance. Surprise Seas
- onal Trophies at most Cruise Ins.\n
+ /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday August 27. THE DIN
+ ER’s Back to School Cruise In. Music by Gary’s Sound Machine. $10 puts
+  you in drawings for $100 & $50\, Free Beverage w/meal\, discounts on mdse
+ \, Trophies for Best of Show\, THE DINER Pick\, THE DINER RATS Big Cheese\
+ , Hottest Car\, Coolest Car. 4PM to 9 PM\, 50/50\, Drawings & Prizes by 5 
+ PM.\n\n(Any year car\, truck or bike can enter)\n\nTHE DINER is a “One o
+ f a kind\, locally owned\, All American Diner”\nServing others as we wan
+ t to be served ourselves and want our family to be served.\nOnly on Highwa
+ y 66\, Sevierville\, TN (In front of Staples & Lowe’s)\, (865) 908-1904\
+ , www.thediner.biz\nTimeless All American Good Food/Desserts\, Fair Prices
+ \, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car club\n\nRegistratio
+ n is $10 & goes 100% to: ½ to our Colson Prison Ministries Angel Tree & 
+ ½ to Wears Valley Ranch. Register earns eligibility for drawings\, awards
+  at Cruise In’s. 50/50 Drawing plus Drawings every cruise in for at leas
+ t $100 and $50 paid by THE DINER or other voluntary sponsors. Participants
+  receive free beverage with their meal and 15% off merchandise including s
+ hirts\, hats\, puzzles & cards. Trophies Sponsored by Jack Maness Insuranc
+ e. Surprise Seasonal Trophies at most Cruise Ins.\n
 LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T203000
-UID:2016-09-02 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
+SUMMARY:Points Bracket Race #13
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T230000
+UID:2016-07-30 18:00:00/Points Bracket Race #13
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T200000
+UID:2016-10-01 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160917T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T230000
+UID:2016-09-17 18:00:00/Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Points Bracket Race #14
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T230000
+UID:2016-08-13 18:00:00/Points Bracket Race #14
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161111T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161111T230000
+UID:2016-11-11 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T220000
-UID:2016-08-26 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T220000
+UID:2016-10-21 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T220000
+UID:2016-10-07 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T220000
+UID:2016-09-23 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -284,9 +329,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160707T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160707T210000
-UID:2016-07-07 18:00:00/Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160728T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160728T210000
+UID:2016-07-28 18:00:00/Papa Johns Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
  eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
@@ -309,22 +354,10 @@ LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race #10
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160625T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160625T230000
-UID:2016-06-25 18:00:00/Points Bracket Race #10
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160728T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160728T210000
-UID:2016-07-28 18:00:00/Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161020T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161020T210000
+UID:2016-10-20 18:00:00/Papa Johns Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
  eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
@@ -334,77 +367,16 @@ LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Fall Rod Run
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160915T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T200000
-UID:2016-09-15 08:00:00/Grand Fall Rod Run
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
- nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Fall Grand Rod run consist
- s of an official car show at the LeConte Event Center. There are also tons
-  of cars parked and cruising along the Parkway each evening.\n
-LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T200000
-UID:2016-10-22 17:00:00/Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T200000
+UID:2016-10-15 17:00:00/Joe Neubert Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
  .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
  ril through October? at beside Joe Neubert\nCollision Center behind Advanc
  ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
  il me at knoxgearhead@knoxgearhead.com\n
 LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160701T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160701T230000
-UID:2016-07-01 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Brawl at Knoxville vs Brainerd
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161112T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161112T230000
-UID:2016-11-12 18:00:00/Fall Brawl at Knoxville vs Brainerd
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n$3000 Pro \nN/BX-TBA\n\n
- Gates open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDr
- agstrip](https://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161118T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161118T230000
-UID:2016-11-18 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T203000
-UID:2016-06-24 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -418,6 +390,399 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
  ay.
 LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T200000
+UID:2016-10-29 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
+UID:2016-11-05 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T203000
+UID:2016-10-14 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T230000
+UID:2016-08-19 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160825T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160825T210000
+UID:2016-08-25 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T220000
+UID:2016-08-19 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T203000
+UID:2016-09-02 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161104T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161104T230000
+UID:2016-11-04 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T230000
+UID:2016-07-08 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farragut Lions Club: Helping the World to See Charity Car Show
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
+UID:2016-10-01 08:00:00/Farragut Lions Club: Helping the World to See Char
+ ity Car Show
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://farragut.tnlions
+ .org/charity-car-show/\n Location: Chilhowee Park\n\n\n\nRods\, Customs\, 
+ and Classics and Trucks thru 2016.\n\nRegistration Fee: $20\n\nAll proceed
+ s go to Farragut Lions Club to support Sight Programs and other programs t
+ he club supports.\n
+LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T160000
+UID:2016-07-30 12:00:00/The Diner Cruise
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
+ /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday July 30 THE DINER
+ ’S Hot Nights\, Cool Cars Cruise In. Focus on SMARM. Music by Gary’s S
+ ound Machine. $10 puts you in drawings for $100 & $50\, Free Beverage w/me
+ al\, discounts on mdse\, Trophies for Best of Show\, THE DINER Pick\, The 
+ Diner Rats Big Cheese.\n\n(Any year car\, truck or bike can enter)\n\nTHE 
+ DINER is a “One of a kind\, locally owned\, All American Diner”\nServi
+ ng others as we want to be served ourselves and want our family to be serv
+ ed.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lowe’s
+ )\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Food/Des
+ serts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car 
+ club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison Minist
+ ries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibility for
+  drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings every cru
+ ise in for at least $100 and $50 paid by THE DINER or other voluntary spon
+ sors. Participants receive free beverage with their meal and 15% off merch
+ andise including shirts\, hats\, puzzles & cards. Trophies Sponsored by Ja
+ ck Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\n
+LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$3000 Pro Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T230000
+UID:2016-08-27 18:00:00/$3000 Pro Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T220000
+UID:2016-08-26 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T203000
+UID:2016-08-26 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161008T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161008T200000
+UID:2016-10-08 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T220000
+UID:2016-10-14 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T230000
+UID:2016-08-05 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T230000
+UID:2016-10-07 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T230000
+UID:2016-10-28 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160901T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160901T210000
+UID:2016-09-01 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T230000
+UID:2016-07-15 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160811T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160811T210000
+UID:2016-08-11 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T120000
+UID:2016-09-03 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T220000
+UID:2016-07-29 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161010T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161010T160000
+UID:2016-10-10 12:00:00/The Diner Cruise
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
+ /2015-schedule/\n Location: Sevierville\n\n\n\nOctober 10. Combined THE DI
+ NER’s 12th Anniversary Cruise In AND Special Cruise In Fundraiser for th
+ e Second Harvest & Food Ministries in Memory of Courteney Kaliszewski and 
+ Jeff Trussell. Music\, trophies\, goodies\, more.\n\n(Any year car\, truck
+  or bike can enter)\n\nTHE DINER is a “One of a kind\, locally owned\, A
+ ll American Diner”\nServing others as we want to be served ourselves and
+  want our family to be served.\nOnly on Highway 66\, Sevierville\, TN (In 
+ front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.biz\nTimeless
+  All American Good Food/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\n
+ Home of THE DINER RATS car club\n\nRegistration is $10 & goes 100% to: ½ 
+ to our Colson Prison Ministries Angel Tree & ½ to Wears Valley Ranch. Reg
+ ister earns eligibility for drawings\, awards at Cruise In’s. 50/50 Draw
+ ing plus Drawings every cruise in for at least $100 and $50 paid by THE DI
+ NER or other voluntary sponsors. Participants receive free beverage with t
+ heir meal and 15% off merchandise including shirts\, hats\, puzzles & card
+ s. Trophies Sponsored by Jack Maness Insurance. Surprise Seasonal Trophies
+  at most Cruise Ins.\n
+LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T203000
+UID:2016-09-30 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$3000 Pro Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T230000
+UID:2016-10-15 18:00:00/$3000 Pro Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T230000
+UID:2016-09-23 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -452,60 +817,10 @@ LOCATION:7600-H Kingston Pike\, Knoxville\, TN 37919
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race #9
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160618T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160618T230000
-UID:2016-06-18 18:00:00/Points Bracket Race #9
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160701T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160701T203000
-UID:2016-07-01 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160630T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160630T210000
-UID:2016-06-30 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T220000
-UID:2016-07-15 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160714T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160714T210000
-UID:2016-07-14 18:00:00/Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160922T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160922T210000
+UID:2016-09-22 18:00:00/Papa Johns Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
  eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
@@ -528,520 +843,51 @@ LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T230000
-UID:2016-07-08 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$3000 Pro Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T230000
-UID:2016-10-15 18:00:00/$3000 Pro Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T200000
-UID:2016-10-15 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T203000
-UID:2016-09-30 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161111T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161111T230000
-UID:2016-11-11 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #15
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160820T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160820T230000
-UID:2016-08-20 18:00:00/Points Bracket Race #15
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T203000
-UID:2016-07-22 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160623T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160623T210000
-UID:2016-06-23 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160616T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160616T210000
-UID:2016-06-16 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T230000
-UID:2016-09-23 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cruisin For Kids Car Show
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T120000
-UID:2016-08-13 08:00:00/Cruisin For Kids Car Show
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://missionofhope.or
- g/cruisin-for-kids-car-show-2/\n Location: Clinton Highway\n\n\n\nLocated 
- at Joe Neubert Collision Center on Clinton Highway. \n\nRegistration 8-10a
- m. Awards at 2pm.\n\nNo current website for this cruise in. I will try to 
- get a copy of the flyer \nI saw today up if I get one. If you know\nof a c
- urrent website for this event please email me at knoxgearhead@knoxgearhead
- .com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T203000
-UID:2016-08-26 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T220000
-UID:2016-10-14 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T220000
+UID:2016-09-16 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T230000
-UID:2016-09-30 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T200000
-UID:2016-09-03 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160617T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160617T230000
-UID:2016-06-17 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T203000
-UID:2016-07-29 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160721T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160721T210000
-UID:2016-07-21 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160617T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160617T203000
-UID:2016-06-17 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160901T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160901T210000
-UID:2016-09-01 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T230000
-UID:2016-07-29 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160702T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160702T200000
-UID:2016-07-02 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T160000
-UID:2016-07-30 12:00:00/The Diner Cruise
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T160000
+UID:2016-11-05 12:00:00/The Diner Cruise
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday July 30 THE DINER
- ’S Hot Nights\, Cool Cars Cruise In. Focus on SMARM. Music by Gary’s S
- ound Machine. $10 puts you in drawings for $100 & $50\, Free Beverage w/me
- al\, discounts on mdse\, Trophies for Best of Show\, THE DINER Pick\, The 
- Diner Rats Big Cheese.\n\n(Any year car\, truck or bike can enter)\n\nTHE 
- DINER is a “One of a kind\, locally owned\, All American Diner”\nServi
- ng others as we want to be served ourselves and want our family to be serv
- ed.\nOnly on Highway 66\, Sevierville\, TN (In front of Staples & Lowe’s
- )\, (865) 908-1904\, www.thediner.biz\nTimeless All American Good Food/Des
- serts\, Fair Prices\, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car 
- club\n\nRegistration is $10 & goes 100% to: ½ to our Colson Prison Minist
- ries Angel Tree & ½ to Wears Valley Ranch. Register earns eligibility for
-  drawings\, awards at Cruise In’s. 50/50 Drawing plus Drawings every cru
- ise in for at least $100 and $50 paid by THE DINER or other voluntary spon
- sors. Participants receive free beverage with their meal and 15% off merch
- andise including shirts\, hats\, puzzles & cards. Trophies Sponsored by Ja
- ck Maness Insurance. Surprise Seasonal Trophies at most Cruise Ins.\n
+ /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday November 5. THE DI
+ NER’s Veterans Day Cruise In. Wednesay the 11h is Veterans Day. Music by
+  Gary’s Sound Machine. $10 puts you in drawings for $100 & $50\, Free Be
+ verage w/meal\, discounts on mdse\, Trophies for Best of Show\, THE DINER 
+ Pick\, THE DINER RATS Big Cheese\, Most Patriotic\, plus more. Noon to 5 P
+ M\, 50/50\, Drawings & Prizes by 5 PM. Fall colors will usually linger unt
+ il now. We honor our veterans\, their commitment & sacrifices.\n\n(Any yea
+ r car\, truck or bike can enter)\n\nTHE DINER is a “One of a kind\, loca
+ lly owned\, All American Diner”\nServing others as we want to be served 
+ ourselves and want our family to be served.\nOnly on Highway 66\, Seviervi
+ lle\, TN (In front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.
+ biz\nTimeless All American Good Food/Desserts\, Fair Prices\, Poodle Skirt
+ s\, Jukebox\nHome of THE DINER RATS car club\n\nRegistration is $10 & goes
+  100% to: ½ to our Colson Prison Ministries Angel Tree & ½ to Wears Vall
+ ey Ranch. Register earns eligibility for drawings\, awards at Cruise In’
+ s. 50/50 Drawing plus Drawings every cruise in for at least $100 and $50 p
+ aid by THE DINER or other voluntary sponsors. Participants receive free be
+ verage with their meal and 15% off merchandise including shirts\, hats\, p
+ uzzles & cards. Trophies Sponsored by Jack Maness Insurance. Surprise Seas
+ onal Trophies at most Cruise Ins.\n
 LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T220000
-UID:2016-07-22 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T230000
-UID:2016-10-28 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T220000
-UID:2016-06-24 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160716T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160716T200000
-UID:2016-07-16 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T203000
-UID:2016-08-12 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T203000
-UID:2016-07-15 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
-UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #9
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160618T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160618T230000
-UID:2016-06-18 18:00:00/Points Bracket Race #9
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T120000
-UID:2016-09-03 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T230000
-UID:2016-09-16 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T203000
-UID:2016-10-07 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160625T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160625T200000
-UID:2016-06-25 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lenoir City Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160618T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160618T120000
-UID:2016-06-18 08:00:00/Lenoir City Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/LenoirCityCarsandCoffee/\n Location: Downtown Lenoir City \n\n\n\n8am ev
- ery third Saturday of every month at downtown Lenoir City.\n
-LOCATION:101 E Depot St\, Lenoir City\, TN 37771
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T220000
-UID:2016-09-23 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T230000
-UID:2016-08-19 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160917T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T230000
-UID:2016-09-17 18:00:00/Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161013T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161013T210000
-UID:2016-10-13 18:00:00/Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160908T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160908T210000
+UID:2016-09-08 18:00:00/Papa Johns Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
  eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
@@ -1064,28 +910,16 @@ LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161027T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161027T210000
-UID:2016-10-27 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T220000
-UID:2016-08-19 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T200000
+UID:2016-10-22 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,10 +944,23 @@ LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160721T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160721T210000
+UID:2016-07-21 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160924T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160924T200000
-UID:2016-09-24 17:00:00/Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160806T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160806T200000
+UID:2016-08-06 17:00:00/Joe Neubert Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
  .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
  ril through October? at beside Joe Neubert\nCollision Center behind Advanc
@@ -1136,252 +983,30 @@ LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T203000
-UID:2016-09-23 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T203000
-UID:2016-08-19 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160624T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160624T230000
-UID:2016-06-24 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T200000
-UID:2016-09-10 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
+SUMMARY:Cruisin For Kids Car Show
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T120000
+UID:2016-08-13 08:00:00/Cruisin For Kids Car Show
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://missionofhope.or
+ g/cruisin-for-kids-car-show-2/\n Location: Clinton Highway\n\n\n\nLocated 
+ at Joe Neubert Collision Center on Clinton Highway. \n\nRegistration 8-10a
+ m. Awards at 2pm.\n\nNo current website for this cruise in. I will try to 
+ get a copy of the flyer \nI saw today up if I get one. If you know\nof a c
+ urrent website for this event please email me at knoxgearhead@knoxgearhead
+ .com\n
 LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160709T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160709T200000
-UID:2016-07-09 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outlaw Heads Up
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T230000
-UID:2016-09-03 18:00:00/Outlaw Heads Up
+SUMMARY:Fall Brawl at Knoxville vs Brainerd
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161112T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161112T230000
+UID:2016-11-12 18:00:00/Fall Brawl at Knoxville vs Brainerd
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
- \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
- ps://www.facebook.com/KnoxvilleDragstrip)\n
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n$3000 Pro \nN/BX-TBA\n\n
+ Gates open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDr
+ agstrip](https://www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160618T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160618T200000
-UID:2016-06-18 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T220000
-UID:2016-07-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T230000
-UID:2016-07-22 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T220000
-UID:2016-08-05 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
-UID:2016-11-05 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$3000 Pro Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T230000
-UID:2016-08-27 18:00:00/$3000 Pro Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160806T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160806T200000
-UID:2016-08-06 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T203000
-UID:2016-07-08 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #11
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160716T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160716T230000
-UID:2016-07-16 18:00:00/Points Bracket Race #11
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nNo points for jrs.\n\nGa
- tes open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDrag
- strip](https://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T230000
-UID:2016-09-02 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160625T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160625T160000
-UID:2016-06-25 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday June 25. THE DINER
- ’s June Jam Cruise In. Focus on Prostate Cancer. Music by Gary’s Sound
-  Machine. $10 puts you in drawings for $100 & $50\, Free Beverage w/meal\,
-  discounts on mdse\, Trophies for Best of Show\, THE DINER Pick\, THE DINE
- R RATS Big Cheese\, Most Patriotic. 4PM to 9 PM\, 50/50\, Drawings & Prize
- s by 5 PM . Summer is in full swing and the weather perfect.\n\n(Any year 
- car\, truck or bike can enter)\n\nTHE DINER is a “One of a kind\, locall
- y owned\, All American Diner”\nServing others as we want to be served ou
- rselves and want our family to be served.\nOnly on Highway 66\, Seviervill
- e\, TN (In front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.bi
- z\nTimeless All American Good Food/Desserts\, Fair Prices\, Poodle Skirts\
- , Jukebox\nHome of THE DINER RATS car club\n\nRegistration is $10 & goes 1
- 00% to: ½ to our Colson Prison Ministries Angel Tree & ½ to Wears Valley
-  Ranch. Register earns eligibility for drawings\, awards at Cruise In’s.
-  50/50 Drawing plus Drawings every cruise in for at least $100 and $50 pai
- d by THE DINER or other voluntary sponsors. Participants receive free beve
- rage with their meal and 15% off merchandise including shirts\, hats\, puz
- zles & cards. Trophies Sponsored by Jack Maness Insurance. Surprise Season
- al Trophies at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T220000
-UID:2016-07-29 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1394,133 +1019,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
  acebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farragut Lions Club: Helping the World to See Charity Car Show
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
-UID:2016-10-01 08:00:00/Farragut Lions Club: Helping the World to See Char
- ity Car Show
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://farragut.tnlions
- .org/charity-car-show/\n Location: Chilhowee Park\n\n\n\nRods\, Customs\, 
- and Classics and Trucks thru 2016.\n\nRegistration Fee: $20\n\nAll proceed
- s go to Farragut Lions Club to support Sight Programs and other programs t
- he club supports.\n
-LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T220000
-UID:2016-09-30 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outlaw Heads Up
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160806T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160806T230000
-UID:2016-08-06 18:00:00/Outlaw Heads Up
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
- \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
- ps://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #16
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T230000
-UID:2016-09-10 18:00:00/Points Bracket Race #16
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T230000
-UID:2016-10-14 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T230000
-UID:2016-07-15 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160908T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160908T210000
-UID:2016-09-08 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T203000
-UID:2016-09-16 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161010T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161010T160000
-UID:2016-10-10 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nOctober 10. Combined THE DI
- NER’s 12th Anniversary Cruise In AND Special Cruise In Fundraiser for th
- e Second Harvest & Food Ministries in Memory of Courteney Kaliszewski and 
- Jeff Trussell. Music\, trophies\, goodies\, more.\n\n(Any year car\, truck
-  or bike can enter)\n\nTHE DINER is a “One of a kind\, locally owned\, A
- ll American Diner”\nServing others as we want to be served ourselves and
-  want our family to be served.\nOnly on Highway 66\, Sevierville\, TN (In 
- front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.biz\nTimeless
-  All American Good Food/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\n
- Home of THE DINER RATS car club\n\nRegistration is $10 & goes 100% to: ½ 
- to our Colson Prison Ministries Angel Tree & ½ to Wears Valley Ranch. Reg
- ister earns eligibility for drawings\, awards at Cruise In’s. 50/50 Draw
- ing plus Drawings every cruise in for at least $100 and $50 paid by THE DI
- NER or other voluntary sponsors. Participants receive free beverage with t
- heir meal and 15% off merchandise including shirts\, hats\, puzzles & card
- s. Trophies Sponsored by Jack Maness Insurance. Surprise Seasonal Trophies
-  at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1538,275 +1036,15 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160811T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160811T210000
-UID:2016-08-11 18:00:00/Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161013T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161013T210000
+UID:2016-10-13 18:00:00/Papa Johns Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
  eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
  pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
  ay.
 LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T203000
-UID:2016-10-21 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T220000
-UID:2016-08-12 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T230000
-UID:2016-10-29 18:00:00/Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T220000
-UID:2016-10-21 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161125T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161125T230000
-UID:2016-11-25 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T230000
-UID:2016-08-26 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T230000
-UID:2016-10-22 18:00:00/Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T220000
-UID:2016-10-07 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160820T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160820T200000
-UID:2016-08-20 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #14
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T230000
-UID:2016-08-13 18:00:00/Points Bracket Race #14
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T230000
-UID:2016-08-05 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161008T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161008T200000
-UID:2016-10-08 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T230000
-UID:2016-08-12 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T200000
-UID:2016-10-01 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T220000
-UID:2016-09-16 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161020T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161020T210000
-UID:2016-10-20 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160924T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160924T230000
-UID:2016-09-24 18:00:00/Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T230000
-UID:2016-09-09 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T160000
-UID:2016-08-27 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nSaturday August 27. THE DIN
- ER’s Back to School Cruise In. Music by Gary’s Sound Machine. $10 puts
-  you in drawings for $100 & $50\, Free Beverage w/meal\, discounts on mdse
- \, Trophies for Best of Show\, THE DINER Pick\, THE DINER RATS Big Cheese\
- , Hottest Car\, Coolest Car. 4PM to 9 PM\, 50/50\, Drawings & Prizes by 5 
- PM.\n\n(Any year car\, truck or bike can enter)\n\nTHE DINER is a “One o
- f a kind\, locally owned\, All American Diner”\nServing others as we wan
- t to be served ourselves and want our family to be served.\nOnly on Highwa
- y 66\, Sevierville\, TN (In front of Staples & Lowe’s)\, (865) 908-1904\
- , www.thediner.biz\nTimeless All American Good Food/Desserts\, Fair Prices
- \, Poodle Skirts\, Jukebox\nHome of THE DINER RATS car club\n\nRegistratio
- n is $10 & goes 100% to: ½ to our Colson Prison Ministries Angel Tree & 
- ½ to Wears Valley Ranch. Register earns eligibility for drawings\, awards
-  at Cruise In’s. 50/50 Drawing plus Drawings every cruise in for at leas
- t $100 and $50 paid by THE DINER or other voluntary sponsors. Participants
-  receive free beverage with their meal and 15% off merchandise including s
- hirts\, hats\, puzzles & cards. Trophies Sponsored by Jack Maness Insuranc
- e. Surprise Seasonal Trophies at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T230000
-UID:2016-10-07 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1834,6 +1072,269 @@ LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T203000
+UID:2016-09-23 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160818T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160818T210000
+UID:2016-08-18 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T200000
+UID:2016-09-03 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T220000
+UID:2016-08-05 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160929T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160929T210000
+UID:2016-09-29 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Fall Rod Run
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160915T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160917T200000
+UID:2016-09-15 08:00:00/Grand Fall Rod Run
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.rodrun-pigeo
+ nforge.com/\n Location: Pigeon Forge\n\n\n\nThe Fall Grand Rod run consist
+ s of an official car show at the LeConte Event Center. There are also tons
+  of cars parked and cruising along the Parkway each evening.\n
+LOCATION:2986 Teaster Lane\, Pigeon Forge\, TN 37863 
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161118T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161118T230000
+UID:2016-11-18 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T230000
+UID:2016-08-12 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T203000
+UID:2016-07-08 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160924T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160924T200000
+UID:2016-09-24 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T230000
+UID:2016-09-16 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T230000
+UID:2016-09-09 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160723T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160723T200000
+UID:2016-07-23 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T220000
+UID:2016-09-30 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160707T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160707T210000
+UID:2016-07-07 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T203000
+UID:2016-07-29 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T203000
+UID:2016-08-19 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T230000
+UID:2016-07-22 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160709T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160709T200000
+UID:2016-07-09 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T230000
+UID:2016-10-14 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T220000
+UID:2016-08-12 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T220000
@@ -1843,6 +1344,254 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T220000
+UID:2016-07-08 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T230000
+UID:2016-08-26 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160820T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160820T200000
+UID:2016-08-20 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T200000
+UID:2016-08-27 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papa Johns Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160714T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160714T210000
+UID:2016-07-14 18:00:00/Papa Johns Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
+ eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
+ pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
+ ay.
+LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T230000
+UID:2016-09-30 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160916T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160916T203000
+UID:2016-09-16 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T220000
+UID:2016-09-02 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T230000
+UID:2016-10-22 18:00:00/Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
+UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T203000
+UID:2016-07-15 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outlaw Heads Up
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T230000
+UID:2016-09-03 18:00:00/Outlaw Heads Up
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
+ \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
+ ps://www.facebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T200000
+UID:2016-09-10 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T203000
+UID:2016-10-07 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
+ starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
+ ity.\n\nHosted by the Mossy Creek Cruzers.\n
+LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
+ 0
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160924T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160924T230000
+UID:2016-09-24 18:00:00/Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T230000
+UID:2016-09-02 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T230000
+UID:2016-07-29 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Points Bracket Race #16
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T230000
+UID:2016-09-10 18:00:00/Points Bracket Race #16
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
+ ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
+ acebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T220000
+UID:2016-07-22 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T230000
+UID:2016-10-21 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
