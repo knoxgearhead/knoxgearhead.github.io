@@ -3,38 +3,13 @@ VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161125T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161125T230000
-UID:2016-11-25 18:00:00/Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T230000
+UID:2016-09-02 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #15
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160820T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160820T230000
-UID:2016-08-20 18:00:00/Points Bracket Race #15
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outlaw Heads Up
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160806T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160806T230000
-UID:2016-08-06 18:00:00/Outlaw Heads Up
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
- \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
- ps://www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
@@ -51,38 +26,14 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race #11
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160716T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160716T230000
-UID:2016-07-16 18:00:00/Points Bracket Race #11
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nNo points for jrs.\n\nGa
- tes open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDrag
- strip](https://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$3000 Pro Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160709T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160709T230000
-UID:2016-07-09 18:00:00/$3000 Pro Bracket Race
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T230000
+UID:2016-09-30 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
  ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #13
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160730T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160730T230000
-UID:2016-07-30 18:00:00/Points Bracket Race #13
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
@@ -99,14 +50,14 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Points Bracket Race #14
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160813T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160813T230000
-UID:2016-08-13 18:00:00/Points Bracket Race #14
+SUMMARY:Fall Brawl at Knoxville vs Brainerd
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161112T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161112T230000
+UID:2016-11-12 18:00:00/Fall Brawl at Knoxville vs Brainerd
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n$3000 Pro \nN/BX-TBA\n\n
+ Gates open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDr
+ agstrip](https://www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
@@ -124,165 +75,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160819T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160819T230000
-UID:2016-08-19 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161104T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161104T230000
-UID:2016-11-04 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160708T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160708T230000
-UID:2016-07-08 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$3000 Pro Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160827T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160827T230000
-UID:2016-08-27 18:00:00/$3000 Pro Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160805T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160805T230000
-UID:2016-08-05 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T230000
-UID:2016-10-07 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T230000
-UID:2016-10-28 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160715T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160715T230000
-UID:2016-07-15 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$3000 Pro Bracket Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T230000
-UID:2016-10-15 18:00:00/$3000 Pro Bracket Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T230000
-UID:2016-09-23 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Brawl at Knoxville vs Brainerd
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161112T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161112T230000
-UID:2016-11-12 18:00:00/Fall Brawl at Knoxville vs Brainerd
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n$3000 Pro \nN/BX-TBA\n\n
- Gates open at 6pm. Racing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDr
- agstrip](https://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Points Bracket Race #12
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160723T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160723T230000
-UID:2016-07-23 18:00:00/Points Bracket Race #12
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n\nGates open at 6pm. Rac
- ing 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.f
- acebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161118T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161118T230000
 UID:2016-11-18 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160812T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160812T230000
-UID:2016-08-12 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
@@ -304,30 +99,6 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T230000
-UID:2016-09-09 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160722T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160722T230000
-UID:2016-07-22 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T230000
 UID:2016-10-14 18:00:00/Test and Tune
@@ -340,21 +111,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160826T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160826T230000
-UID:2016-08-26 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T230000
-UID:2016-09-30 18:00:00/Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T230000
+UID:2016-10-07 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
@@ -375,15 +134,38 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outlaw Heads Up
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T230000
-UID:2016-09-03 18:00:00/Outlaw Heads Up
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T230000
+UID:2016-10-21 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
- \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
- ps://www.facebook.com/KnoxvilleDragstrip)\n
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T230000
+UID:2016-09-23 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160909T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160909T230000
+UID:2016-09-09 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
@@ -400,30 +182,6 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160902T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160902T230000
-UID:2016-09-02 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160729T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160729T230000
-UID:2016-07-29 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Points Bracket Race #16
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160910T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160910T230000
@@ -436,10 +194,59 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$3000 Pro Bracket Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T230000
+UID:2016-10-15 18:00:00/$3000 Pro Bracket Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T230000
-UID:2016-10-21 18:00:00/Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161104T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161104T230000
+UID:2016-11-04 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161125T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161125T230000
+UID:2016-11-25 18:00:00/Test and Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
+ ebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outlaw Heads Up
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160903T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160903T230000
+UID:2016-09-03 18:00:00/Outlaw Heads Up
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
+ g 7-11pm.\n\n7.0\, 6.0\, 4.70\, Pro Street\, Cheap Street\, Street Bandits
+ \, and Street Stick. \n\n[https://www.facebook.com/KnoxvilleDragstrip](htt
+ ps://www.facebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test and Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T230000
+UID:2016-10-28 18:00:00/Test and Tune
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
  g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
