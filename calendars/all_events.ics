@@ -15,6 +15,19 @@ LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Knoxville's Original Cars and Coffee - Cruisin With Heart
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
+UID:2016-10-01 08:00:00/Knoxville's Original Cars and Coffee - Cruisin Wit
+ h Heart
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/events/946711065457174/\n Location: Regal Cinema - Turkey Creek\n\n\n\nS
+ aturday October 1\, 2016\n\n8am-11am\n\nFree coffee and waffles provided b
+ y Waffle House\n\n[http://www.varietytn.org/](http://www.varietytn.org/)
+LOCATION:9674 Parkside Dr.\, Knoxville\, Tennessee 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161118T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161118T230000
