@@ -20,9 +20,13 @@ Historic Downtown Clinton Parking Lot
 
 !!ALL CARS TO BE IN PLACE BY 5:30PM!!
 
+All makes/models/years welcome!
+
 Pre-registration required by October 5
 
 Register at: [https://andersoncountychambertn.chambermaster.com/eventregistration/register/1009](https://andersoncountychambertn.chambermaster.com/eventregistration/register/1009)
+
+Registration is free!
 
 Order your tshirt online for $10 each
 
