@@ -1,8 +1,8 @@
 ---
 layout: event
 title:  "Clinch River Fall Antique Festival Cruze-In"
-date:   2016-10 17:30:00
-end_date: 2016-10-03 21:00:00
+date:   2016-10-07 17:30:00
+end_date: 2016-10-07 21:00:00
 categories: carshow main
 location: "Clinton"
 address: "134 East Church Street, Clinton, TN 37716"
