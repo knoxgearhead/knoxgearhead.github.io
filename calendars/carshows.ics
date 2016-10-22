@@ -2,49 +2,35 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
-SUMMARY:Knoxville's Original Cars and Coffee - Cruisin With Heart
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
-UID:2016-10-01 08:00:00/Knoxville's Original Cars and Coffee - Cruisin Wit
- h Heart
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/events/946711065457174/\n Location: Regal Cinema - Turkey Creek\n\n\n\nS
- aturday October 1\, 2016\n\n8am-11am\n\nFree coffee and waffles provided b
- y Waffle House\n\n[http://www.varietytn.org/](http://www.varietytn.org/)
-LOCATION:9674 Parkside Dr.\, Knoxville\, Tennessee 37922
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T220000
+UID:2016-10-21 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161020T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161020T210000
-UID:2016-10-20 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161013T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161013T210000
-UID:2016-10-13 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+SUMMARY:Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T200000
+UID:2016-10-22 17:00:00/Joe Neubert Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
+ .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
+ ril through October? at beside Joe Neubert\nCollision Center behind Advanc
+ ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
+ il me at knoxgearhead@knoxgearhead.com\n
+LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T220000
-UID:2016-09-30 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
+UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -95,146 +81,38 @@ LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160922T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160922T210000
-UID:2016-09-22 18:00:00/Papa Johns Cruise-In
+SUMMARY:Harper Auto Square's Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161023T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161023T120000
+UID:2016-10-23 08:00:00/Harper Auto Square's Cars and Coffee
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160929T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160929T210000
-UID:2016-09-29 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T220000
-UID:2016-09-23 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinch River Fall Antique Festival Cruze-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T210000
-UID:2016-10-07 17:30:00/Clinch River Fall Antique Festival Cruze-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://business.anderso
- ncountychamber.org/events/details/2nd-annual-cruze-in-car-show-10-07-2016-
- 1009\n Location: Clinton\n\n\n\nClinch River Fall Antique Festival 2nd Ann
- ual Cruze-In\n\nFood Court - Live Bands - Antique Shops\n\nFriday October 
- 7 2016\n6-9pm\n\nHistoric Downtown Clinton Parking Lot\n\n!!ALL CARS TO BE
-  IN PLACE BY 5:30PM!!\n\nAll makes/models/years welcome!\n\nPre-registrati
- on required by October 5\n\nRegister at: [https://andersoncountychambertn.
- chambermaster.com/eventregistration/register/1009](https://andersoncountyc
- hambertn.chambermaster.com/eventregistration/register/1009)\n\nRegistratio
- n is free!\n\nOrder your tshirt online for $10 each\n\nAnderson County Cha
- mber of Commerce\n865-457-2559\n
-LOCATION:134 East Church Street\, Clinton\, TN 37716
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
-UID:2016-11-05 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161022T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161022T200000
-UID:2016-10-22 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T200000
-UID:2016-10-29 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161028T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161028T220000
-UID:2016-10-28 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farragut Lions Club: Helping the World to See Charity Car Show
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T120000
-UID:2016-10-01 08:00:00/Farragut Lions Club: Helping the World to See Char
- ity Car Show
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://farragut.tnlions
- .org/charity-car-show/\n Location: Chilhowee Park\n\n\n\nRods\, Customs\, 
- and Classics and Trucks thru 2016.\n\nRegistration Fee: $20\n\nAll proceed
- s go to Farragut Lions Club to support Sight Programs and other programs t
- he club supports.\n
-LOCATION:3301 E. Magnolia Ave.\, Knoxville\, TN 37914
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papa Johns Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161006T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161006T210000
-UID:2016-10-06 18:00:00/Papa Johns Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/Papa-Johns-Pizza-Doughrific-Development-533247363406113/\n Location: Ash
- eville Highway\n\n\n\nEvery Saturday 6pm - 9pm April through October at Pa
- pa Johns near the intersection\nof Asheville Highway and John Sevier Highw
- ay.
-LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
+ m/harpercarsandcoffee/\n Location: West Town Mall\n\n\n\nWE ASK THAT ALL G
+ UEST ENTER OFF OF MONTVUE ROAD.\n\nThe official website is [http://www.har
+ perautosquare.com/#cars-coffee-section](http://www.harperautosquare.com/#c
+ ars-coffee-section).\n\nWe invite car lovers of all makes and models to Te
+ nnessee's largest Cars and Coffee event!\n\nWhen? SUNDAY - October 23rd\, 
+ 2016\nWhere? West Town Mall\nTime? 8 AM to 11 AM\n\n*We ask that all guest
+ s enter off of Montvue road.\n\nWe invite car lovers of all makes and mode
+ ls to Tennessee's largest Cars and Coffee event!\n\nWhen? SUNDAY - October
+  23rd\, 2016\nWhere? West Town Mall \nTime? 8 AM to 11 AM\n\nWest Town Mal
+ l address:\n7600 Kingston Pike Knoxville\, TN 37919\n\nThe newly designed 
+ 8330 Laboratories 2016 Harper Auto Square Cars and Coffee T-Shirt will be 
+ available for purchase at the Harper Auto Square Airstream in addition to 
+ 2016 Harper Auto Square Cars and Coffee stickers.\n\nCan't go? Follow us o
+ n Instagram @harpercars and hash tag your photos using #harpercars or #har
+ percc!\n\nBring your ride and chat with hundreds of car enthusiasts sharin
+ g the same passion - A love for cars!\n\nPhotos from July's record setting
+  Cars and Coffee event can be seen here:\n\nhttps://www.facebook.com/harpe
+ rcarsandcoffee/photos/?tab=album&album_id=1089448061126620\n\n*Our custom 
+ Airstream car hauler will be on site\, as well as inventory from our Porsc
+ he\, Audi\, Jaguar\, Infiniti\, Acura\, Volkswagen\, Alfa Romeo\, Maserati
+  and FIAT stores!\n\n*Dash plaques will be given at event entrance (while 
+ supplies last)!\n\n*Newly re-designed Cars and Coffee decals will be avail
+ able for purchase at the Harper Auto Square airstream! \n\n*We urge you to
+  invite your friends and family!\n\n*Remember\, this is a family oriented 
+ event. Please act respectively to other enthusiasts!\n\n*KPD will be on si
+ te!\n\nSee you there!\n
+LOCATION:7600-H Kingston Pike\, Knoxville\, TN 37919
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -251,87 +129,10 @@ LOCATION:6215 Riverview Crossing\, Knoxville\, TN 37924
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T203000
-UID:2016-10-07 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T203000
-UID:2016-10-14 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Diner Cruise
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161010T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161010T160000
-UID:2016-10-10 12:00:00/The Diner Cruise
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.thediner.biz
- /2015-schedule/\n Location: Sevierville\n\n\n\nOctober 10. Combined THE DI
- NER’s 12th Anniversary Cruise In AND Special Cruise In Fundraiser for th
- e Second Harvest & Food Ministries in Memory of Courteney Kaliszewski and 
- Jeff Trussell. Music\, trophies\, goodies\, more.\n\n(Any year car\, truck
-  or bike can enter)\n\nTHE DINER is a “One of a kind\, locally owned\, A
- ll American Diner”\nServing others as we want to be served ourselves and
-  want our family to be served.\nOnly on Highway 66\, Sevierville\, TN (In 
- front of Staples & Lowe’s)\, (865) 908-1904\, www.thediner.biz\nTimeless
-  All American Good Food/Desserts\, Fair Prices\, Poodle Skirts\, Jukebox\n
- Home of THE DINER RATS car club\n\nRegistration is $10 & goes 100% to: ½ 
- to our Colson Prison Ministries Angel Tree & ½ to Wears Valley Ranch. Reg
- ister earns eligibility for drawings\, awards at Cruise In’s. 50/50 Draw
- ing plus Drawings every cruise in for at least $100 and $50 paid by THE DI
- NER or other voluntary sponsors. Participants receive free beverage with t
- heir meal and 15% off merchandise including shirts\, hats\, puzzles & card
- s. Trophies Sponsored by Jack Maness Insurance. Surprise Seasonal Trophies
-  at most Cruise Ins.\n
-LOCATION:550 Winfield Dunn Parkway\, Sevierville\, TN 37876
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161007T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161007T220000
-UID:2016-10-07 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161015T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161015T200000
-UID:2016-10-15 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160924T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160924T200000
-UID:2016-09-24 17:00:00/Joe Neubert Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161029T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161029T200000
+UID:2016-10-29 17:00:00/Joe Neubert Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
  .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
  ril through October? at beside Joe Neubert\nCollision Center behind Advanc
@@ -354,79 +155,24 @@ LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161014T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161014T220000
-UID:2016-10-14 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160930T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160930T203000
-UID:2016-09-30 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161008T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161008T200000
-UID:2016-10-08 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20160923T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20160923T203000
-UID:2016-09-23 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/Cruze%20Ins.html\n Location: Jefferson City\n\n\n\nEvery Friday 
- starting at 5:30pm April through October at Big Lots on 11E in Jefferson C
- ity.\n\nHosted by the Mossy Creek Cruzers.\n
-LOCATION:Big Lots\, 264 East Broadway Boulevard\, Jefferson City\, TN 3776
- 0
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joe Neubert Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161001T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161001T200000
-UID:2016-10-01 17:00:00/Joe Neubert Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxgearhead
- .com/\n Location: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm Ap
- ril through October? at beside Joe Neubert\nCollision Center behind Advanc
- ed Auto. \n\nNo website for this cruise in. If you know\nof one please ema
- il me at knoxgearhead@knoxgearhead.com\n
-LOCATION:5086 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161021T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161021T220000
-UID:2016-10-21 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20161105T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20161105T120000
+UID:2016-11-05 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
