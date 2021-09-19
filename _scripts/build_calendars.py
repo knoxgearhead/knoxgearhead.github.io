@@ -43,7 +43,7 @@ for f in glob('_posts/*.markdown'):
     c.add_component(e)
 
 
-with open('calendars/all_events.ics', 'w') as f:
+with open('calendars/all_events.ics', 'wb') as f:
     f.write(c.to_ical())
     
     
@@ -86,7 +86,7 @@ for f in glob('_posts/*.markdown'):
         c.add_component(e)
 
 
-with open('calendars/carshows.ics', 'w') as f:
+with open('calendars/carshows.ics', 'wb') as f:
     f.write(c.to_ical())
     
     
@@ -129,5 +129,5 @@ for f in glob('_posts/*.markdown'):
         c.add_component(e)
 
 
-with open('calendars/drag_races.ics', 'w') as f:
+with open('calendars/drag_races.ics', 'wb') as f:
     f.write(c.to_ical())

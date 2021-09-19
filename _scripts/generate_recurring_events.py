@@ -34,12 +34,12 @@ for eventfile in glob("_recurring/*.markdown"):
         rr = dr.rrule(dr.MONTHLY, byweekday=DAYS[info['rec_day']](info['rec_instance']), dtstart=start)
 
     else:
-        print "Error: this recurring type not supported"
+        print("Error: this recurring type not supported")
 
-    print start
+    print(start)
     dates = rr.between(start, end)
 
-    print dates
+    print(dates)
 
     if 'bi' in info['rec_period']:
         dates = dates[::2]
