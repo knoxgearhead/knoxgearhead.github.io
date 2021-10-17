@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
+SUMMARY:Party At The 'Ville Backwards No Prep Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T230000
+UID:2021-11-13 12:00:00/Party At The 'Ville Backwards No Prep Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at noon. Chec
+ k website for details.\n\n[Event Link](https://www.facebook.com/events/349
+ 792866640525/)\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://ww
+ w.facebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Outlaw Society
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T120000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T230000
