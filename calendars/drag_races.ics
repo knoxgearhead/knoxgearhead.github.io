@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
+SUMMARY:Outlaw Society
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T230000
+UID:2021-10-22 12:00:00/Outlaw Society
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nCheck website for detail
+ s.\n\n[Event Link](https://www.facebook.com/events/223715709798561)\n\n[ht
+ tps://www.facebook.com/KnoxvilleDragstrip](https://www.facebook.com/Knoxvi
+ lleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Test and Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T230000
