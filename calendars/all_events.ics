@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Party At The 'Ville Backwards No Prep Race
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T230000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T160000
 UID:2021-11-13 12:00:00/Party At The 'Ville Backwards No Prep Race
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
  gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at noon. Chec
