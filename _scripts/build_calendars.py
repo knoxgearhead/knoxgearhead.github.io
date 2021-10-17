@@ -19,7 +19,7 @@ for f in glob('_posts/*.markdown'):
     with open(f, 'r') as txtfile:
         txt = txtfile.read()
 
-    info = yaml.load(txt.split('---')[1])
+    info = yaml.safe_load(txt.split('---')[1])
 
     e.add('summary', info['title'])
     e.add('dtstart', info['date'].replace(tzinfo=pytz.timezone('US/Eastern')))
@@ -57,7 +57,7 @@ for f in glob('_posts/*.markdown'):
     
     with open(f, 'r') as txtfile:
         txt = txtfile.read()
-    info = yaml.load(txt.split('---')[1])
+    info = yaml.safe_load(txt.split('---')[1])
     
     if "carshow" in info['categories']:
     
@@ -100,7 +100,7 @@ for f in glob('_posts/*.markdown'):
     
     with open(f, 'r') as txtfile:
         txt = txtfile.read()
-    info = yaml.load(txt.split('---')[1])
+    info = yaml.safe_load(txt.split('---')[1])
     
     if "drag" in info['categories']:
     

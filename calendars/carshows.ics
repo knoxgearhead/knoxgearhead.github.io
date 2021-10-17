@@ -3,42 +3,6 @@ VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211022T203000
-UID:2021-10-22 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20210924T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20210924T203000
-UID:2021-09-24 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211008T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211008T203000
-UID:2021-10-08 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T173000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T203000
 UID:2021-10-29 17:30:00/Mossy Creek Cruzers
@@ -51,21 +15,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211015T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211015T203000
-UID:2021-10-15 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211001T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211001T203000
-UID:2021-10-01 17:30:00/Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211022T203000
+UID:2021-10-22 17:30:00/Mossy Creek Cruzers
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH

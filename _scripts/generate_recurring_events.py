@@ -19,7 +19,7 @@ for eventfile in glob("_recurring/*.markdown"):
     with open(eventfile, 'r') as txt:
         content = txt.read()
 
-    info = yaml.load(content.split("---")[1])
+    info = yaml.safe_load(content.split("---")[1])
 
     # start = dp.parse(info['rec_start'])
     # end = dp.parse(info['rec_end'])
