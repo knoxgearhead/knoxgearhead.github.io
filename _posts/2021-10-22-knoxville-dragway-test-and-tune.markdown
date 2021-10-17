@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Test and Tune"
-date:   DATE
+date:   2021-10-22 18:00:00
 categories: drag
 location: "Knoxville Dragstrip"
 address: "160 Raceway Dr, Maynardville, TN 37807"
