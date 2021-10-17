@@ -13,7 +13,7 @@ permalink: /drags/
   <ul class="post-list">
     {% for post in site.categories.drag reversed %}
     <span class="post-row">
-        <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }} {% if post.end_date %} - {{ post.end_date | date: "%A, %b %-d, %Y" }}{% endif %}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 600, "..."}}</a>
         <span class="post-meta">{{ post.location | truncate: 20, "..." }}</span>
     </span>
