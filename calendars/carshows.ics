@@ -3,57 +3,9 @@ VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221015T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221015T200000
-UID:2022-10-15 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220319T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220319T200000
-UID:2022-03-19 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211127T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211127T200000
 UID:2021-11-27 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220611T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220611T200000
-UID:2022-06-11 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220827T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220827T200000
-UID:2022-08-27 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
  on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
@@ -98,18 +50,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220910T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220910T200000
-UID:2022-09-10 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T210000
@@ -119,30 +59,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221008T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221008T200000
-UID:2022-10-08 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221105T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221105T200000
-UID:2022-11-05 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -170,18 +86,6 @@ LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
-UID:2022-06-04 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T210000
@@ -206,42 +110,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220813T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220813T200000
-UID:2022-08-13 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220312T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220312T200000
-UID:2022-03-12 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220903T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220903T200000
-UID:2022-09-03 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220701T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220701T210000
@@ -254,54 +122,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220924T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220924T200000
-UID:2022-09-24 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221022T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221022T200000
-UID:2022-10-22 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
-UID:2022-07-30 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220423T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220423T200000
-UID:2022-04-23 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T210000
@@ -311,18 +131,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221119T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221119T200000
-UID:2022-11-19 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -362,30 +170,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220702T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220702T200000
-UID:2022-07-02 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T200000
-UID:2022-10-01 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T210000
@@ -395,18 +179,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220507T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220507T200000
-UID:2022-05-07 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -446,18 +218,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220305T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220305T200000
-UID:2022-03-05 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T210000
@@ -467,18 +227,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220716T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220716T200000
-UID:2022-07-16 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -518,18 +266,6 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220402T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220402T200000
-UID:2022-04-02 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T210000
@@ -551,42 +287,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220820T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220820T200000
-UID:2022-08-20 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220430T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220430T200000
-UID:2022-04-30 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221112T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221112T200000
-UID:2022-11-12 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -647,18 +347,6 @@ LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T200000
-UID:2022-08-06 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T210000
@@ -707,30 +395,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220528T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220528T200000
-UID:2022-05-28 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220723T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220723T200000
-UID:2022-07-23 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T210000
@@ -744,57 +408,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220917T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220917T200000
-UID:2022-09-17 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220514T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220514T200000
-UID:2022-05-14 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220625T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220625T200000
-UID:2022-06-25 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211120T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211120T200000
 UID:2021-11-20 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220521T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220521T200000
-UID:2022-05-21 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
  on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
@@ -812,54 +428,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220416T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220416T200000
-UID:2022-04-16 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220709T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220709T200000
-UID:2022-07-09 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220409T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220409T200000
-UID:2022-04-09 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221126T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221126T200000
-UID:2022-11-26 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -884,42 +452,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220326T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220326T200000
-UID:2022-03-26 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220618T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220618T200000
-UID:2022-06-18 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221029T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221029T200000
-UID:2022-10-29 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
