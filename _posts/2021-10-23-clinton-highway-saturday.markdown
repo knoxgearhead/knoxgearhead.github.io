@@ -2,7 +2,7 @@
 layout: event
 title:  "Clinton Highway Cruise-In"
 date:   2021-10-23 17:00:00
-categories: carshow main
+categories: cruisein main
 location: "Clinton Highway"
 address: "5104 Clinton Hwy, Knoxville, TN 37912"
 website: "https://www.facebook.com/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/"

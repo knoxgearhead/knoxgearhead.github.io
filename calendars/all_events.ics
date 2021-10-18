@@ -87,6 +87,18 @@ LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pumpkin Patch Cruise In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211022T210000
+UID:2021-10-22 17:00:00/Pumpkin Patch Cruise In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/events/340671004253814/\n Location: Knoxville\n\n\n\n5pm-8pm\n\nHosted b
+ y the Summer Knights Cruisers. Located at Beaver Creek United Methodist Ch
+ urch.\n\n[Event Page](https://www.facebook.com/events/340671004253814/)
+LOCATION:7753 Oak Ridge Hwy\, Knoxville\, TN 37931
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T210000

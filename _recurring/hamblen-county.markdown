@@ -2,7 +2,7 @@
 layout: event
 title:  "Hamblen County Car Club Cruise-In"
 date:   DATE
-categories: carshow main
+categories: cruisein main
 location: "Morristown"
 address: "202 W Morris Blvd, Morristown, TN 37813"
 website: "https://www.hamblenccc.com/"

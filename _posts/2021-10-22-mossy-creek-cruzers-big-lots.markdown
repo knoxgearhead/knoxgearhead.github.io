@@ -2,7 +2,7 @@
 layout: event
 title:  "Mossy Creek Cruzers"
 date:   2021-10-22 17:30:00
-categories: carshow main
+categories: cruisein main
 location: "Jefferson City"
 address: "TSC, 127 W Broadway Blvd, Jefferson City, TN 37760"
 website: "http://www.mossycreekcruzers.org/"

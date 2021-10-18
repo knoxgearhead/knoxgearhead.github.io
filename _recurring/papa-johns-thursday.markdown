@@ -2,7 +2,7 @@
 layout: event
 title:  "Papa Johns Cruise-In"
 date:   DATE
-categories: carshow main
+categories: cruisein main
 location: "Asheville Highway"
 address: "6215 Riverview Crossing, Knoxville, TN 37924"
 website: "https://www.facebook.com/Papa-Johns-Pizza-Doughrific-Development-533247363406113/"
