@@ -147,6 +147,18 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Fear No Prep Nationals 3.0
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T140000
+UID:2021-11-13 10:00:00/No Fear No Prep Nationals 3.0
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
+ etails.\n\n[Event Link](https://www.facebook.com/events/269965491509347)\n
+ \n
+LOCATION:1650 Creston Rd\, Crossville\, TN 38571
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221105T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221105T200000
@@ -496,18 +508,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211016T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211016T200000
-UID:2021-10-16 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220716T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220716T200000
@@ -553,6 +553,18 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bracket Madness
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T230000
+UID:2021-10-22 16:00:00/Bracket Madness
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
+ etails.\n\n[Event Link](https://www.facebook.com/events/204380418324264/)\
+ n\n
+LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -965,18 +977,6 @@ SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220618T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220618T200000
 UID:2022-06-18 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211016T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211016T200000
-UID:2021-10-16 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
  on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
