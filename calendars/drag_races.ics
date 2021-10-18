@@ -76,6 +76,17 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crossville Test-N-Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T230000
+UID:2021-10-29 17:00:00/Crossville Test-N-Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 5pm. 
+ Check website for more details. No prep on 11/5.\n\n
+LOCATION:1650 Creston Rd\, Crossville\, TN 38571
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Grand Hustle: 250k Invitational
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T140000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211030T230000

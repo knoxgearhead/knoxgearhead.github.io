@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Crossville Test-N-Tune"
-date:   2021-11-05 17:00:00
+date:   2021-10-29 17:00:00
 categories: drag
 location: "Crossville Dragway"
 address: "1650 Creston Rd, Crossville, TN 38571"
