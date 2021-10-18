@@ -496,6 +496,20 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Grand Hustle: 250k Invitational
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211030T230000
+UID:2021-10-29 14:00:00/The Grand Hustle: 250k Invitational
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
+ etails.\n\n[Tickets/Info](https://tickets.thefoat.com/GrandHustleRacing/Th
+ e+Come+Up+250K+Small+Tire+Invitational/tickets/event-38775/)\n[Facebook Pa
+ ge](https://www.facebook.com/The-Come-Up-by-Grand-Hustle-104804271985526/)
+ \n\n
+LOCATION:1650 Creston Rd\, Crossville\, TN 38571
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T200000
@@ -637,6 +651,17 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossville Test-N-Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211105T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211105T230000
+UID:2021-11-05 17:00:00/Crossville Test-N-Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 5pm. 
+ Check website for more details. No prep on 11/5.\n\n
+LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
