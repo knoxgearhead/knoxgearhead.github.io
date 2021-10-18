@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Test and Tune"
+title:  "Tuesday Night Street Drags"
 date:   2021-10-19 18:00:00
 categories: drag
 location: "Crossville Dragway"

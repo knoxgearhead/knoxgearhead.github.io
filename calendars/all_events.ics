@@ -255,10 +255,10 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
+SUMMARY:Tuesday Night Street Drags
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211109T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211109T210000
-UID:2021-11-09 18:00:00/Test and Tune
+UID:2021-11-09 18:00:00/Tuesday Night Street Drags
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
  Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
@@ -303,10 +303,10 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
+SUMMARY:Tuesday Night Street Drags
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211019T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211019T210000
-UID:2021-10-19 18:00:00/Test and Tune
+UID:2021-10-19 18:00:00/Tuesday Night Street Drags
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
  Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
@@ -315,10 +315,10 @@ LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
+SUMMARY:Tuesday Night Street Drags
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211026T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211026T210000
-UID:2021-10-26 18:00:00/Test and Tune
+UID:2021-10-26 18:00:00/Tuesday Night Street Drags
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
  Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
@@ -926,10 +926,10 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test and Tune
+SUMMARY:Tuesday Night Street Drags
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211102T180000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211102T210000
-UID:2021-11-02 18:00:00/Test and Tune
+UID:2021-11-02 18:00:00/Tuesday Night Street Drags
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
  Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
