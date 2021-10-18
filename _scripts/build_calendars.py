@@ -59,7 +59,7 @@ for f in glob('_posts/*.markdown'):
         txt = txtfile.read()
     info = yaml.safe_load(txt.split('---')[1])
     
-    if "carshow" in info['categories']:
+    if "carshow" in info['categories'] or "cruisein" in info['categories']:
     
         e = cal.Event()
     
