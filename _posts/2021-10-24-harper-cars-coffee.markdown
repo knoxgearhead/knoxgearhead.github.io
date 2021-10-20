@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Harpers Cars and Coffee"
-date:   2021-10-22 17:00:00
+date:   2021-10-24 08:00:00
 categories: cruisein main
 location: "Knoxville"
 address: "7600 Kingston Pike, Knoxville, TN 37919"
