@@ -51,19 +51,6 @@ LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outlaw Society
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T230000
-UID:2021-10-22 12:00:00/Outlaw Society
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nCheck website for detail
- s.\n\n[Event Link](https://www.facebook.com/events/223715709798561)\n\n[ht
- tps://www.facebook.com/KnoxvilleDragstrip](https://www.facebook.com/Knoxvi
- lleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crossville Test-N-Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T230000
@@ -101,18 +88,6 @@ LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bracket Madness
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T160000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T230000
-UID:2021-10-22 16:00:00/Bracket Madness
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
- etails.\n\n[Event Link](https://www.facebook.com/events/204380418324264/)\
- n\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crossville Test-N-Tune
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211105T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211105T230000
@@ -121,18 +96,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 5pm. 
  Check website for more details. No prep on 11/5.\n\n
 LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211022T230000
-UID:2021-10-22 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT

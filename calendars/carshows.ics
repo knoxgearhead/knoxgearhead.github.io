@@ -14,18 +14,6 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211023T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T200000
-UID:2021-10-23 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T210000
@@ -59,18 +47,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pumpkin Patch Cruise In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211022T210000
-UID:2021-10-22 17:00:00/Pumpkin Patch Cruise In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/events/340671004253814/\n Location: Knoxville\n\n\n\n5pm-8pm\n\nHosted b
- y the Summer Knights Cruisers. Located at Beaver Creek United Methodist Ch
- urch.\n\n[Event Page](https://www.facebook.com/events/340671004253814/)
-LOCATION:7753 Oak Ridge Hwy\, Knoxville\, TN 37931
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -302,18 +278,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211023T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211023T200000
-UID:2021-10-23 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T210000
@@ -359,18 +323,6 @@ LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harpers Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211024T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211024T120000
-UID:2021-10-24 08:00:00/Harpers Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.harpercarsa
- ndcoffee.com/\n Location: Knoxville\n\n\n\n8am - 11am at West Town Mall\n\
- nHosted by Harper Auto Square\n\n[Event Page](https://www.harpercarsandcof
- fee.com/)
-LOCATION:7600 Kingston Pike\, Knoxville\, TN 37919
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T210000
@@ -387,18 +339,6 @@ SUMMARY:Mossy Creek Cruzers
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T173000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T203000
 UID:2021-10-29 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211022T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211022T203000
-UID:2021-10-22 17:30:00/Mossy Creek Cruzers
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH
