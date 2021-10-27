@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:0.0.1
-PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
+PRODID:-//KnoxGearhead Carshow and Cruise-In Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Party At The 'Ville Backwards No Prep Race
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000

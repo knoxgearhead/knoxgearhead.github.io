@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:0.0.1
-PRODID:-//KnoxGearhead Carshow Calendar//knoxgearhead.com//
+PRODID:-//KnoxGearhead Drag Racing Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211127T170000
