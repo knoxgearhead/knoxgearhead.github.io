@@ -2,139 +2,6 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Calendar//knoxgearhead.com//
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211127T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211127T200000
-UID:2021-11-27 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Party At The 'Ville Backwards No Prep Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T160000
-UID:2021-11-13 12:00:00/Party At The 'Ville Backwards No Prep Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at noon. Chec
- k website for details.\n\n[Event Link](https://www.facebook.com/events/349
- 792866640525/)\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://ww
- w.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T210000
-UID:2022-08-26 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220513T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220513T210000
-UID:2022-05-13 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T210000
-UID:2022-07-22 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Fear No Prep Nationals 3.0
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T140000
-UID:2021-11-13 10:00:00/No Fear No Prep Nationals 3.0
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
- etails.\n\n[Event Link](https://www.facebook.com/events/269965491509347)\n
- \n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T210000
-UID:2022-05-27 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211030T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211030T200000
-UID:2021-10-30 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T210000
-UID:2022-09-23 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220930T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220930T210000
-UID:2022-09-30 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Street Drags
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211109T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211109T210000
-UID:2021-11-09 18:00:00/Tuesday Night Street Drags
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
- Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
- hotos/a.1016611475056698/4993133257404480/)\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220701T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220701T210000
@@ -147,22 +14,10 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Street Drags
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211026T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211026T210000
-UID:2021-10-26 18:00:00/Tuesday Night Street Drags
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
- Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
- hotos/a.1016611475056698/4993133257404480/)\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T210000
-UID:2022-04-29 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T210000
+UID:2022-06-17 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -184,75 +39,14 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220916T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220916T210000
-UID:2022-09-16 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T210000
+UID:2022-07-08 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T210000
-UID:2022-05-06 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossville Test-N-Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T230000
-UID:2021-10-29 17:00:00/Crossville Test-N-Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 5pm. 
- Check website for more details. No prep on 11/5.\n\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T210000
-UID:2022-05-20 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220610T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220610T210000
-UID:2022-06-10 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Grand Hustle: 250k Invitational
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211030T230000
-UID:2021-10-29 14:00:00/The Grand Hustle: 250k Invitational
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
- etails.\n\n[Tickets/Info](https://tickets.thefoat.com/GrandHustleRacing/Th
- e+Come+Up+250K+Small+Tire+Invitational/tickets/event-38775/)\n[Facebook Pa
- ge](https://www.facebook.com/The-Come-Up-by-Grand-Hustle-104804271985526/)
- \n\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -269,6 +63,18 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T210000
+UID:2022-05-06 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220422T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220422T210000
 UID:2022-04-22 17:00:00/Foothills Mall Cruise-In
@@ -280,93 +86,22 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T210000
-UID:2022-04-15 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220624T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220624T210000
-UID:2022-06-24 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Test and Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T230000
-UID:2021-10-29 18:00:00/Test and Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at 6pm. Racin
- g 7-11pm.\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://www.fac
- ebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220729T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220729T210000
-UID:2022-07-29 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211030T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211030T200000
-UID:2021-10-30 17:00:00/Clinton Highway Cruise-In
+SUMMARY:No Fear No Prep Nationals 3.0
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T140000
+UID:2021-11-13 10:00:00/No Fear No Prep Nationals 3.0
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T210000
-UID:2022-07-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossville Test-N-Tune
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211105T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211105T230000
-UID:2021-11-05 17:00:00/Crossville Test-N-Tune
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 5pm. 
- Check website for more details. No prep on 11/5.\n\n
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
+ etails.\n\n[Event Link](https://www.facebook.com/events/269965491509347)\n
+ \n
 LOCATION:1650 Creston Rd\, Crossville\, TN 38571
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220819T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220819T210000
-UID:2022-08-19 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220513T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220513T210000
+UID:2022-05-13 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -375,27 +110,16 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T210000
-UID:2022-04-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220805T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220805T210000
-UID:2022-08-05 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+SUMMARY:Party At The 'Ville Backwards No Prep Race
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T160000
+UID:2021-11-13 12:00:00/Party At The 'Ville Backwards No Prep Race
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at noon. Chec
+ k website for details.\n\n[Event Link](https://www.facebook.com/events/349
+ 792866640525/)\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://ww
+ w.facebook.com/KnoxvilleDragstrip)\n
+LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -421,26 +145,14 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T210000
-UID:2022-06-17 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220603T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220603T210000
+UID:2022-06-03 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211029T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211029T203000
-UID:2021-10-29 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -457,9 +169,21 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T210000
-UID:2022-08-12 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T210000
+UID:2022-09-23 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220916T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220916T210000
+UID:2022-09-16 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -480,10 +204,141 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220729T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220729T210000
+UID:2022-07-29 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T210000
+UID:2022-04-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220805T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220805T210000
+UID:2022-08-05 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T210000
+UID:2022-05-20 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T210000
+UID:2022-05-27 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220624T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220624T210000
+UID:2022-06-24 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T210000
+UID:2022-04-29 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossville Test-N-Tune
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211105T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211105T230000
+UID:2021-11-05 17:00:00/Crossville Test-N-Tune
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 5pm. 
+ Check website for more details. No prep on 11/5.\n\n
+LOCATION:1650 Creston Rd\, Crossville\, TN 38571
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220930T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220930T210000
+UID:2022-09-30 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T210000
+UID:2022-08-26 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220819T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220819T210000
+UID:2022-08-19 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuesday Night Street Drags
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211102T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211102T210000
-UID:2021-11-02 18:00:00/Tuesday Night Street Drags
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211109T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211109T210000
+UID:2021-11-09 18:00:00/Tuesday Night Street Drags
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
  Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
@@ -493,9 +348,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220715T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220715T210000
-UID:2022-07-15 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T210000
+UID:2022-04-08 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -517,14 +372,62 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220603T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220603T210000
-UID:2022-06-03 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220610T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220610T210000
+UID:2022-06-10 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T210000
+UID:2022-08-12 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220715T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220715T210000
+UID:2022-07-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T210000
+UID:2022-07-22 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211127T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211127T200000
+UID:2021-11-27 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
