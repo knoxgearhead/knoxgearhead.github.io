@@ -6,20 +6,23 @@ permalink: /drags/
 
 <div class="home">
 
-  <h3 class="page-announcement"> Website under construction! If you know of any events in the Knoxville area we don't have listed here, please email us at <a href="mailto:knoxgearhead@knoxgearhead.com">knoxgearhead@knoxgearhead.com</a>.</h1>
+  <h3 class="page-announcement"> Website under construction! If you know of any events in the Knoxville area we don't
+    have listed here, please email us at <a
+      href="mailto:knoxgearhead@knoxgearhead.com">knoxgearhead@knoxgearhead.com</a>.</h1>
 
-  <h1 class="page-heading">Upcoming Drag Racing Events</h1>
+    <h1 class="page-heading">Upcoming Drag Racing Events</h1>
 
-  <ul class="post-list">
-    {% for post in site.categories.drag reversed %}
-    <span class="post-row">
-        <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }} {% if post.end_date %} - {{ post.end_date | date: "%A, %b %-d, %Y" }}{% endif %}</span>
+    <ul class="post-list">
+      {% for post in site.posts reversed %}
+      <span class="post-row">
+        <span class="post-meta">{{ post.date | date: "%A, %b %-d, %Y" }} {% if post.end_date %} - {{ post.end_date |
+          date: "%A, %b %-d, %Y" }}{% endif %}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 600, "..."}}</a>
         <span class="post-meta">{{ post.location | truncate: 20, "..." }}</span>
-    </span>
-    {% endfor %}
-  </ul>
+      </span>
+      {% endfor %}
+    </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
