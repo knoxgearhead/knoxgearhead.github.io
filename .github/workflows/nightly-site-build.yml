@@ -1,9 +1,9 @@
 name: Nightly Site Build
 
 on:
-  workflow_dispatch
+  - workflow_dispatch
 
-  schedule:
+  - schedule:
     - cron: '0 2 * * *'
 
 jobs:
