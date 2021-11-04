@@ -24,4 +24,5 @@ jobs:
 
       - name: Build Site
         run: |
+          conda activate base
           bash _scripts/build_site.sh
