@@ -1,0 +1,11 @@
+name: knoxgearhead
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - python-dateutil
+  - ca-certificates
+  - openssl
+  - pyyaml
+  - icalendar
+  - black

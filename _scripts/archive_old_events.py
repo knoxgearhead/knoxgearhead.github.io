@@ -4,6 +4,9 @@ from glob import glob
 import os
 import yaml
 
+# Ensure _archive directory exists
+os.makedirs("_archive", exist_ok=True)
+
 # Iterate over all events in the events directory
 for eventfile in glob("_posts/*.markdown"):
 
