@@ -338,18 +338,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Street Drags
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211109T180000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211109T210000
-UID:2021-11-09 18:00:00/Tuesday Night Street Drags
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nGates open at 6pm. 
- Fun ends at 9pm\n\n[Event Flyer](https://www.facebook.com/racecrossville/p
- hotos/a.1016611475056698/4993133257404480/)\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T210000
