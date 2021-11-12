@@ -124,15 +124,16 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Party At The 'Ville Backwards No Prep Race
+SUMMARY:!!CANCELED!! Party At The 'Ville Backwards No Prep Race
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T160000
-UID:2021-11-13 12:00:00/Party At The 'Ville Backwards No Prep Race
+UID:2021-11-13 12:00:00/!!CANCELED!! Party At The 'Ville Backwards No Prep
+  Race
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\nGates open at noon. Chec
- k website for details.\n\n[Event Link](https://www.facebook.com/events/349
- 792866640525/)\n\n[https://www.facebook.com/KnoxvilleDragstrip](https://ww
- w.facebook.com/KnoxvilleDragstrip)\n
+ gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n~~Gates open at noon. Ch
+ eck website for details.~~ CANCELLED\n\n[Event Link](https://www.facebook.
+ com/events/349792866640525/)\n\n[https://www.facebook.com/KnoxvilleDragstr
+ ip](https://www.facebook.com/KnoxvilleDragstrip)\n
 LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
