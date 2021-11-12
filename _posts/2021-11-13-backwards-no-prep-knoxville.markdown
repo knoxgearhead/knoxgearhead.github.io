@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Party At The 'Ville Backwards No Prep Race"
+title:  "!!CANCELED]!! Party At The 'Ville Backwards No Prep Race"
 date:   2021-11-13 12:00:00
 categories: drag
 location: "Knoxville Dragstrip"
@@ -9,7 +9,7 @@ website: "http://www.knoxvilledragstrip.com"
 
 ---
 
-Gates open at noon. Check website for details.
+~~Gates open at noon. Check website for details.~~ CANCELLED
 
 [Event Link](https://www.facebook.com/events/349792866640525/)
 
