@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow and Cruise-In Calendar//knoxgearhead.com//
 BEGIN:VEVENT
-SUMMARY:The Grand Hustle: 250k Invitational
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211112T140000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T230000
-UID:2021-11-12 14:00:00/The Grand Hustle: 250k Invitational
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
- etails. Moved to November 12th and 13th due to rain.\n\n[Tickets/Info](htt
- ps://tickets.thefoat.com/GrandHustleRacing/The+Come+Up+250K+Small+Tire+Inv
- itational/tickets/event-38775/)\n[Facebook Page](https://www.facebook.com/
- The-Come-Up-by-Grand-Hustle-104804271985526/)\n\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:No Fear No Prep Nationals 3.0
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211114T100000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211114T140000
@@ -25,20 +11,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  etails. Moved to November 14th due to scheduling conflict.\n\n[Event Link]
  (https://www.facebook.com/events/269965491509347)\n\n
 LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:!!CANCELED!! Party At The 'Ville Backwards No Prep Race
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211113T120000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211113T160000
-UID:2021-11-13 12:00:00/!!CANCELED!! Party At The 'Ville Backwards No Prep
-  Race
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.knoxvilledra
- gstrip.com\n Location: Knoxville Dragstrip\n\n\n\n~~Gates open at noon. Ch
- eck website for details.~~ CANCELLED\n\n[Event Link](https://www.facebook.
- com/events/349792866640525/)\n\n[https://www.facebook.com/KnoxvilleDragstr
- ip](https://www.facebook.com/KnoxvilleDragstrip)\n
-LOCATION:160 Raceway Dr\, Maynardville\, TN 37807
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
