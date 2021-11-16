@@ -1,16 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Carshow and Cruise-In Calendar//knoxgearhead.com//
-BEGIN:VEVENT
-SUMMARY:No Fear No Prep Nationals 3.0
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20211114T100000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20211114T140000
-UID:2021-11-14 10:00:00/No Fear No Prep Nationals 3.0
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/racecrossville\n Location: Crossville Dragway\n\n\n\nCheck website for d
- etails. Moved to November 14th due to scheduling conflict.\n\n[Event Link]
- (https://www.facebook.com/events/269965491509347)\n\n
-LOCATION:1650 Creston Rd\, Crossville\, TN 38571
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
 END:VCALENDAR
