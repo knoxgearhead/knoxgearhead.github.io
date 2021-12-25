@@ -6,8 +6,8 @@ categories: cruisein main
 location: "West Knoxville"
 address: "227 Sherway Road, Knoxville, TN 37922"
 website: "https://www.facebook.com/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589"
-rec_start: 2021-02-01 08:00:00
-rec_end: 2021-12-31 12:00:00
+rec_start: 2022-02-01 08:00:00
+rec_end: 2022-12-31 12:00:00
 rec_period: bimonthly
 rec_day: saturday
 rec_instance: 1
