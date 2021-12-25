@@ -6,8 +6,8 @@ categories: cruisein main
 location: "Jefferson City"
 address: "TSC, 127 W Broadway Blvd, Jefferson City, TN 37760"
 website: "http://www.mossycreekcruzers.org/"
-rec_start: 2021-09-01 17:30:00
-rec_end: 2021-10-31 20:30:00
+rec_start: 2022-04-01 17:30:00
+rec_end: 2022-10-31 20:30:00
 rec_period: weekly
 rec_day: friday
 ---
