@@ -2,139 +2,10 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Drag Racing Calendar//knoxgearhead.com//
 BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T120000
-UID:2022-10-01 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220422T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220422T210000
-UID:2022-04-22 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220916T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220916T210000
-UID:2022-09-16 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220715T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220715T203000
-UID:2022-07-15 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221029T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221029T200000
-UID:2022-10-29 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221021T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221021T203000
-UID:2022-10-21 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220930T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220930T210000
-UID:2022-09-30 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220820T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220820T200000
-UID:2022-08-20 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220819T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220819T210000
-UID:2022-08-19 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220521T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220521T200000
-UID:2022-05-21 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220827T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220827T200000
-UID:2022-08-27 17:00:00/Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220910T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220910T200000
+UID:2022-09-10 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
  on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
@@ -143,22 +14,46 @@ LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220402T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220402T200000
-UID:2022-04-02 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220528T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220528T200000
+UID:2022-05-28 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220729T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220729T203000
+UID:2022-07-29 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220514T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220514T200000
+UID:2022-05-14 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T210000
-UID:2022-04-15 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T210000
+UID:2022-09-23 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -167,15 +62,39 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T210000
-UID:2022-06-17 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220930T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220930T203000
+UID:2022-09-30 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220416T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220416T200000
+UID:2022-04-16 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T203000
+UID:2022-05-20 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -200,879 +119,6 @@ LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221029T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221029T200000
-UID:2022-10-29 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T210000
-UID:2022-07-22 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T200000
-UID:2022-08-06 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T203000
-UID:2022-04-29 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220813T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220813T200000
-UID:2022-08-13 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220528T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220528T200000
-UID:2022-05-28 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220917T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220917T200000
-UID:2022-09-17 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221105T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221105T200000
-UID:2022-11-05 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220513T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220513T203000
-UID:2022-05-13 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T200000
-UID:2022-10-01 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221007T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221007T203000
-UID:2022-10-07 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T210000
-UID:2022-08-12 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T203000
-UID:2022-08-12 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220430T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220430T200000
-UID:2022-04-30 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T210000
-UID:2022-04-29 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220930T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220930T203000
-UID:2022-09-30 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T203000
-UID:2022-09-23 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T200000
-UID:2022-10-01 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220910T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220910T200000
-UID:2022-09-10 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220903T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220903T200000
-UID:2022-09-03 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T203000
-UID:2022-07-22 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221022T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221022T200000
-UID:2022-10-22 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220909T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220909T210000
-UID:2022-09-09 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T200000
-UID:2022-08-06 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220312T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220312T200000
-UID:2022-03-12 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220902T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220902T203000
-UID:2022-09-02 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T210000
-UID:2022-04-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221126T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221126T200000
-UID:2022-11-26 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220514T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220514T200000
-UID:2022-05-14 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220409T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220409T200000
-UID:2022-04-09 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220514T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220514T200000
-UID:2022-05-14 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221028T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221028T203000
-UID:2022-10-28 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220507T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220507T200000
-UID:2022-05-07 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220610T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220610T203000
-UID:2022-06-10 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T210000
-UID:2022-05-06 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220319T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220319T200000
-UID:2022-03-19 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220709T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220709T200000
-UID:2022-07-09 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220507T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220507T200000
-UID:2022-05-07 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220402T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220402T200000
-UID:2022-04-02 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T203000
-UID:2022-08-26 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T120000
-UID:2022-08-06 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220305T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220305T200000
-UID:2022-03-05 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220716T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220716T200000
-UID:2022-07-16 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221112T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221112T200000
-UID:2022-11-12 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220729T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220729T203000
-UID:2022-07-29 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220618T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220618T200000
-UID:2022-06-18 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T203000
-UID:2022-04-08 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220618T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220618T200000
-UID:2022-06-18 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T210000
-UID:2022-05-27 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220611T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220611T200000
-UID:2022-06-11 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221008T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221008T200000
-UID:2022-10-08 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221119T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221119T200000
-UID:2022-11-19 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220528T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220528T200000
-UID:2022-05-28 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220625T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220625T200000
-UID:2022-06-25 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220924T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220924T200000
-UID:2022-09-24 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220709T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220709T200000
-UID:2022-07-09 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220326T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220326T200000
-UID:2022-03-26 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221015T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221015T200000
-UID:2022-10-15 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221022T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221022T200000
-UID:2022-10-22 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220723T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220723T200000
-UID:2022-07-23 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220701T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220701T203000
-UID:2022-07-01 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220624T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220624T203000
-UID:2022-06-24 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220422T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220422T203000
-UID:2022-04-22 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220423T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220423T200000
-UID:2022-04-23 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T203000
-UID:2022-04-15 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T210000
-UID:2022-07-08 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220521T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220521T200000
-UID:2022-05-21 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220917T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220917T200000
-UID:2022-09-17 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221015T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221015T200000
-UID:2022-10-15 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T203000
-UID:2022-05-06 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220603T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220603T203000
-UID:2022-06-03 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
-UID:2022-06-04 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Auto Garage Cars and Coffee
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220402T080000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220402T120000
@@ -1094,34 +140,10 @@ LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220729T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220729T210000
-UID:2022-07-29 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220805T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220805T210000
-UID:2022-08-05 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T203000
-UID:2022-07-08 17:30:00/Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220805T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220805T203000
+UID:2022-08-05 17:30:00/Mossy Creek Cruzers
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH
@@ -1130,22 +152,10 @@ LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220701T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220701T210000
-UID:2022-07-01 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220820T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220820T200000
-UID:2022-08-20 17:00:00/Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220618T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220618T200000
+UID:2022-06-18 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
  on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
@@ -1166,118 +176,10 @@ LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220715T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220715T210000
-UID:2022-07-15 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220723T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220723T200000
-UID:2022-07-23 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220416T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220416T200000
-UID:2022-04-16 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T210000
-UID:2022-08-26 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220430T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220430T200000
-UID:2022-04-30 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T203000
-UID:2022-05-20 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220423T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220423T200000
-UID:2022-04-23 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T210000
-UID:2022-09-23 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220924T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220924T200000
-UID:2022-09-24 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220916T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220916T203000
-UID:2022-09-16 17:30:00/Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T203000
+UID:2022-08-12 17:30:00/Mossy Creek Cruzers
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH
@@ -1287,81 +189,9 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220603T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220603T210000
-UID:2022-06-03 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220610T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220610T210000
-UID:2022-06-10 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220827T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220827T200000
-UID:2022-08-27 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220716T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220716T200000
-UID:2022-07-16 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T203000
-UID:2022-05-27 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
-UID:2022-07-30 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220624T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220624T210000
-UID:2022-06-24 17:00:00/Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T210000
+UID:2022-05-27 17:00:00/Foothills Mall Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
@@ -1379,219 +209,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH
  osted by the Mossy Creek Cruzers.\n
 LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T210000
-UID:2022-05-20 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220902T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220902T210000
-UID:2022-09-02 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220611T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220611T200000
-UID:2022-06-11 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220702T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220702T200000
-UID:2022-07-02 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221014T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221014T203000
-UID:2022-10-14 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220409T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220409T200000
-UID:2022-04-09 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220416T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220416T200000
-UID:2022-04-16 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220513T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220513T210000
-UID:2022-05-13 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220625T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220625T200000
-UID:2022-06-25 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220910T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220910T200000
-UID:2022-09-10 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T120000
-UID:2022-06-04 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
-UID:2022-07-30 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
-UID:2022-06-04 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220903T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220903T200000
-UID:2022-09-03 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221008T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221008T200000
-UID:2022-10-08 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T203000
-UID:2022-06-17 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220813T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220813T200000
-UID:2022-08-13 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -1617,6 +234,267 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T203000
+UID:2022-05-06 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221015T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221015T200000
+UID:2022-10-15 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220624T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220624T203000
+UID:2022-06-24 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220813T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220813T200000
+UID:2022-08-13 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220409T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220409T200000
+UID:2022-04-09 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221015T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221015T200000
+UID:2022-10-15 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220820T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220820T200000
+UID:2022-08-20 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220917T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220917T200000
+UID:2022-09-17 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220520T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220520T210000
+UID:2022-05-20 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220409T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220409T200000
+UID:2022-04-09 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220916T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220916T203000
+UID:2022-09-16 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220827T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220827T200000
+UID:2022-08-27 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220715T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220715T210000
+UID:2022-07-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221008T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221008T200000
+UID:2022-10-08 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T120000
+UID:2022-08-06 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220625T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220625T200000
+UID:2022-06-25 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220305T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220305T200000
+UID:2022-03-05 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T203000
+UID:2022-07-22 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220715T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220715T203000
+UID:2022-07-15 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T210000
+UID:2022-05-06 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T210000
+UID:2022-04-08 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220819T173000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220819T203000
 UID:2022-08-19 17:30:00/Mossy Creek Cruzers
@@ -1628,15 +506,1137 @@ LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220701T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220701T210000
+UID:2022-07-01 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T200000
+UID:2022-08-06 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220820T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220820T200000
+UID:2022-08-20 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T200000
+UID:2022-10-01 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220416T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220416T200000
+UID:2022-04-16 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T210000
+UID:2022-04-29 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220709T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220709T200000
+UID:2022-07-09 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220805T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220805T203000
-UID:2022-08-05 17:30:00/Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220429T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220429T203000
+UID:2022-04-29 17:30:00/Mossy Creek Cruzers
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH
  osted by the Mossy Creek Cruzers.\n
 LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220624T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220624T210000
+UID:2022-06-24 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220827T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220827T200000
+UID:2022-08-27 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220709T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220709T200000
+UID:2022-07-09 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221014T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221014T203000
+UID:2022-10-14 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
+UID:2022-06-04 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220513T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220513T210000
+UID:2022-05-13 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220716T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220716T200000
+UID:2022-07-16 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220603T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220603T203000
+UID:2022-06-03 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T120000
+UID:2022-06-04 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220916T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220916T210000
+UID:2022-09-16 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220402T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220402T200000
+UID:2022-04-02 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220611T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220611T200000
+UID:2022-06-11 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220514T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220514T200000
+UID:2022-05-14 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220812T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220812T210000
+UID:2022-08-12 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220402T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220402T200000
+UID:2022-04-02 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220603T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220603T210000
+UID:2022-06-03 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T210000
+UID:2022-07-08 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220806T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220806T200000
+UID:2022-08-06 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220625T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220625T200000
+UID:2022-06-25 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220507T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220507T200000
+UID:2022-05-07 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220521T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220521T200000
+UID:2022-05-21 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221105T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221105T200000
+UID:2022-11-05 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220917T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220917T200000
+UID:2022-09-17 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220729T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220729T210000
+UID:2022-07-29 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220716T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220716T200000
+UID:2022-07-16 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
+UID:2022-06-04 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
+UID:2022-07-30 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220903T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220903T200000
+UID:2022-09-03 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220610T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220610T203000
+UID:2022-06-10 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220902T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220902T210000
+UID:2022-09-02 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220723T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220723T200000
+UID:2022-07-23 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T210000
+UID:2022-08-26 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221008T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221008T200000
+UID:2022-10-08 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220708T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220708T203000
+UID:2022-07-08 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220611T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220611T200000
+UID:2022-06-11 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T210000
+UID:2022-04-15 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T200000
+UID:2022-10-01 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220819T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220819T210000
+UID:2022-08-19 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220909T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220909T210000
+UID:2022-09-09 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221029T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221029T200000
+UID:2022-10-29 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220319T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220319T200000
+UID:2022-03-19 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220610T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220610T210000
+UID:2022-06-10 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220408T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220408T203000
+UID:2022-04-08 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Auto Garage Cars and Coffee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221001T080000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221001T120000
+UID:2022-10-01 08:00:00/European Auto Garage Cars and Coffee
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
+  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
+  gathering of all types of car lovers. It started in 2008 as a small get t
+ ogether for Knoxville car guys to have something to do on a Saturday. Howe
+ ver\, it's grown into quite an event\, so much so that many people drive f
+ rom out of state just to attend. The event is always held on the first Sat
+ urday of every other month. Come be a part\,  here in the parking lot (and
+  overflowing down all the nearby roads) of European Auto Garage. We are th
+ e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
+ be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
+ nt for more information.\n\n[Alternate Website](http://europeanautogarage.
+ com/cars-coffee/)\n
+LOCATION:227 Sherway Road\, Knoxville\, TN 37922
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220701T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220701T203000
+UID:2022-07-01 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221007T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221007T203000
+UID:2022-10-07 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220902T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220902T203000
+UID:2022-09-02 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220422T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220422T203000
+UID:2022-04-22 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220924T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220924T200000
+UID:2022-09-24 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220930T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220930T210000
+UID:2022-09-30 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221126T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221126T200000
+UID:2022-11-26 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220924T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220924T200000
+UID:2022-09-24 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220702T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220702T200000
+UID:2022-07-02 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220415T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220415T203000
+UID:2022-04-15 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220513T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220513T203000
+UID:2022-05-13 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T203000
+UID:2022-06-17 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220430T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220430T200000
+UID:2022-04-30 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220312T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220312T200000
+UID:2022-03-12 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220422T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220422T210000
+UID:2022-04-22 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221119T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221119T200000
+UID:2022-11-19 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221029T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221029T200000
+UID:2022-10-29 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221022T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221022T200000
+UID:2022-10-22 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220423T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220423T200000
+UID:2022-04-23 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
+UID:2022-07-30 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220521T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220521T200000
+UID:2022-05-21 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221112T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221112T200000
+UID:2022-11-12 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220617T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220617T210000
+UID:2022-06-17 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220826T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220826T203000
+UID:2022-08-26 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221028T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221028T203000
+UID:2022-10-28 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221022T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221022T200000
+UID:2022-10-22 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220430T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220430T200000
+UID:2022-04-30 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220326T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220326T200000
+UID:2022-03-26 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clinton Highway Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220723T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220723T200000
+UID:2022-07-23 17:00:00/Clinton Highway Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
+ m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
+ on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
+ vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
+LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221021T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221021T203000
+UID:2022-10-21 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220528T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220528T200000
+UID:2022-05-28 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T203000
+UID:2022-09-23 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220618T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220618T200000
+UID:2022-06-18 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mossy Creek Cruzers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220527T173000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220527T203000
+UID:2022-05-27 17:30:00/Mossy Creek Cruzers
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
+ uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
+ pm April through October at Tractor Supply Company in Jefferson City.\n\nH
+ osted by the Mossy Creek Cruzers.\n
+LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220903T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220903T200000
+UID:2022-09-03 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220813T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220813T200000
+UID:2022-08-13 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220805T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220805T210000
+UID:2022-08-05 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220910T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220910T200000
+UID:2022-09-10 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220507T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220507T200000
+UID:2022-05-07 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foothills Mall Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220722T210000
+UID:2022-07-22 17:00:00/Foothills Mall Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
+ nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
+ g at 5pm April through September at Foothills Mall in front of JC Penny's 
+ in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
+LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
+ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamblen County Car Club Cruise-In
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220423T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220423T200000
+UID:2022-04-23 17:00:00/Hamblen County Car Club Cruise-In
+DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
+ com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
+  through October beside Burger King in Morristown.\n\nHosted by the Hamble
+ n County Car Club.\n
+LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 END:VCALENDAR
