@@ -668,30 +668,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T203000
-UID:2022-05-06 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220506T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220506T210000
-UID:2022-05-06 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220813T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220813T200000
