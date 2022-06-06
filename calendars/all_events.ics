@@ -296,18 +296,6 @@ LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
-UID:2022-06-04 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foothills Mall Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220923T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220923T210000
@@ -410,27 +398,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
   through October beside Burger King in Morristown.\n\nHosted by the Hamble
  n County Car Club.\n
 LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T120000
-UID:2022-06-04 08:00:00/European Auto Garage Cars and Coffee
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
-  Knoxville\n\n\n\nAll cars\, trucks\, bikes welcome.\n\nCars & Coffee is a
-  gathering of all types of car lovers. It started in 2008 as a small get t
- ogether for Knoxville car guys to have something to do on a Saturday. Howe
- ver\, it's grown into quite an event\, so much so that many people drive f
- rom out of state just to attend. The event is always held on the first Sat
- urday of every other month. Come be a part\,  here in the parking lot (and
-  overflowing down all the nearby roads) of European Auto Garage. We are th
- e official Knoxville Cars and Coffee.\n\nPlease note that there will also 
- be an event in April @ Regal Pinnacle 18 (Turkey Creek) see that day's eve
- nt for more information.\n\n[Alternate Website](http://europeanautogarage.
- com/cars-coffee/)\n
-LOCATION:227 Sherway Road\, Knoxville\, TN 37922
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
@@ -587,18 +554,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
  g at 5pm April through September at Foothills Mall in front of JC Penny's 
  in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
 LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220604T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220604T200000
-UID:2022-06-04 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
