@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:0.0.1
 PRODID:-//KnoxGearhead Drag Racing Calendar//knoxgearhead.com//
 BEGIN:VEVENT
-SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
-UID:2022-07-30 17:00:00/Clinton Highway Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
- m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
- on: Clinton Highway\n\n\n\nEvery Saturday starting at 5pm March through No
- vember at beside Joe Neubert\nCollision Center behind Advance Auto. \n\n
-LOCATION:5104 Clinton Hwy\, Knoxville\, TN 37912
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mossy Creek Cruzers
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221028T173000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221028T203000
@@ -317,18 +305,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
  pm April through October at Tractor Supply Company in Jefferson City.\n\nH
  osted by the Mossy Creek Cruzers.\n
 LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamblen County Car Club Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220730T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220730T200000
-UID:2022-07-30 17:00:00/Hamblen County Car Club Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.hamblenccc.
- com/\n Location: Morristown\n\n\n\nEvery Saturday starting at 5:00pm April
-  through October beside Burger King in Morristown.\n\nHosted by the Hamble
- n County Car Club.\n
-LOCATION:202 W Morris Blvd\, Morristown\, TN 37813
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
