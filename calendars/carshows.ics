@@ -26,18 +26,6 @@ LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foothills Mall Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220909T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220909T210000
-UID:2022-09-09 17:00:00/Foothills Mall Cruise-In
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.smokymountai
- nstreetrodders.com/\n Location: Foothills Mall\n\n\n\nEvery Friday startin
- g at 5pm April through September at Foothills Mall in front of JC Penny's 
- in Maryville.\n\nHosted by the Smoky Mountain Street Rodders.\n
-LOCATION:197 Foothills Mall Dr\, Maryville\, TN 37801
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
 DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221029T170000
 DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221029T200000
@@ -293,18 +281,6 @@ DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  nt for more information.\n\n[Alternate Website](http://europeanautogarage.
  com/cars-coffee/)\n
 LOCATION:227 Sherway Road\, Knoxville\, TN 37922
-ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mossy Creek Cruzers
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20220909T173000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20220909T203000
-UID:2022-09-09 17:30:00/Mossy Creek Cruzers
-DESCRIPTION:http://www.knoxgearhead.com \nWebsite: http://www.mossycreekcr
- uzers.org/\n Location: Jefferson City\n\n\n\nEvery Friday starting at 5:30
- pm April through October at Tractor Supply Company in Jefferson City.\n\nH
- osted by the Mossy Creek Cruzers.\n
-LOCATION:TSC\, 127 W Broadway Blvd\, Jefferson City\, TN 37760
 ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
