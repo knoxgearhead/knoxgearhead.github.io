@@ -3,8 +3,8 @@ VERSION:0.0.1
 PRODID:-//KnoxGearhead Drag Racing Calendar//knoxgearhead.com//
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221112T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221112T200000
+DTSTART;TZID=US/Eastern:20221112T170000
+DTEND;TZID=US/Eastern:20221112T200000
 UID:2022-11-12 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
@@ -15,8 +15,8 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221119T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221119T200000
+DTSTART;TZID=US/Eastern:20221119T170000
+DTEND;TZID=US/Eastern:20221119T200000
 UID:2022-11-19 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
@@ -27,8 +27,8 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Auto Garage Cars and Coffee
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221203T080000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221203T120000
+DTSTART;TZID=US/Eastern:20221203T080000
+DTEND;TZID=US/Eastern:20221203T120000
 UID:2022-12-03 08:00:00/European Auto Garage Cars and Coffee
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/Knoxville-TN-Cars-and-Coffee-Fan-Page/88877925589\n Location: West
@@ -48,8 +48,8 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221105T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221105T200000
+DTSTART;TZID=US/Eastern:20221105T170000
+DTEND;TZID=US/Eastern:20221105T200000
 UID:2022-11-05 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
@@ -60,8 +60,8 @@ ORGANIZER;CN=KnoxGearhead:MAILTO:knoxgearhead@knoxgearhead.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clinton Highway Cruise-In
-DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20221126T170000
-DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20221126T200000
+DTSTART;TZID=US/Eastern:20221126T170000
+DTEND;TZID=US/Eastern:20221126T200000
 UID:2022-11-26 17:00:00/Clinton Highway Cruise-In
 DESCRIPTION:http://www.knoxgearhead.com \nWebsite: https://www.facebook.co
  m/pages/category/Event/Clinton-Highway-Cruise-In-627144111003000/\n Locati
